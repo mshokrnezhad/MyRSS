@@ -98,3 +98,5 @@ Thank you for checking out MyRSS. We hope it helps you stay on top of CFPs and w
 - Open issues or pull requests with fixes and ideas
 
 We look forward to your ideas and contributions!
+
+<!-- auto-merge workflow test -->

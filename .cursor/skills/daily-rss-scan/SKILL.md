@@ -32,12 +32,28 @@ Copy and track progress:
 
 ```
 Daily scan:
+- [ ] 0. Sync main (no new branches)
 - [ ] 1. Load url lists
 - [ ] 2. Scrape and diff each source
 - [ ] 3. Send digest email (if updates exist)
 - [ ] 4. Update track_files
-- [ ] 5. Commit and push
+- [ ] 5. Commit and push to main
 ```
+
+### Step 0 — Sync main
+
+Work **directly on `main`**. This workflow must be fully automated with no PRs or branch merges.
+
+```bash
+git checkout main
+git pull origin main
+```
+
+**Do not:**
+
+- Create a new branch
+- Open a pull request
+- Push to any branch other than `main`
 
 ### Step 1 — Load sources
 
@@ -119,24 +135,26 @@ New baselines: file header `# {source name}` then all entries.
 
 ### Step 5 — Git
 
-Only when track files changed:
+Stay on `main`. Only when track files changed:
 
 ```bash
+git checkout main
 git add track_files/
 git commit -m "MyRSS daily scan — {YYYY-MM-DD}"
-git push
+git push origin main
 ```
 
-Do not commit unrelated files. Do not push if commit fails.
+Do not commit unrelated files. Do not push if commit fails. Do not create branches or PRs.
 
 ## Example
 
 **First run** for `cfp-23` (IEEE NetMag): scrape → write `track_files/cfp-23.md` with 8 CFPs → no email for that source.
 
-**Next day**: scrape again → 1 new CFP → include in email → append to `track_files/cfp-23.md` → commit `MyRSS daily scan — 2026-07-05` → push.
+**Next day**: pull `main` → scrape again → 1 new CFP → include in email → append to `track_files/cfp-23.md` → commit on `main` → `git push origin main`.
 
 ## Rules
 
+- Work on `main` only — no feature branches, no pull requests.
 - Process all URLs in both JSON files every run.
 - Never email baseline-only first scrapes.
 - Keep descriptions short and distinct per link.

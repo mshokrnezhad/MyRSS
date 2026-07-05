@@ -1,0 +1,46 @@
+{
+    "23": {
+        "name": "IEEE NetMag",
+        "url": "https://www.comsoc.org/publications/magazines/ieee-network/cfp"
+    },
+    "25": {
+        "name": "IEEE LNET",
+        "url": "https://www.comsoc.org/publications/journals/ieee-lnet/cfp"
+    },
+    "26": {
+        "name": "IEEE OJCOMS",
+        "url": "https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp"
+    },
+    "27": {
+        "name": "IEEE TNSM",
+        "url": "https://www.comsoc.org/publications/journals/ieee-tnsm/cfp"
+    },
+    "29": {
+        "name": "IEEE TCCN",
+        "url": "https://www.comsoc.org/publications/journals/ieee-tccn/cfp"
+    },
+    "30": {
+        "name": "IEEE ComStdMag",
+        "url": "https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp"
+    },
+    "31": {
+        "name": "IEEE WCOM",
+        "url": "https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp"
+    },
+    "32": {
+        "name": "IEEE IoTMag",
+        "url": "https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp"
+    },
+    "33": {
+        "name": "IEEE JSAC",
+        "url": "https://www.comsoc.org/publications/journals/ieee-jsac/cfp"
+    },
+    "34": {
+        "name": "Airbnb Tech Blog",
+        "url": "https://airbnb.tech"
+    },
+    "35": {
+        "name": "IEEE TNSE",
+        "url": "https://www.comsoc.org/publications/journals/ieee-tnse/cfp"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "1": {
+        "name": "NVIDIA Engineering Blog",
+        "url": "https://blogs.nvidia.com"
+    },
+    "2": {
+        "name": "Google Research Blog",
+        "url": "https://research.google/blog/?page=1"
+    },
+    "4": {
+        "name": "Microsoft Engineering Blog",
+        "url": "https://devblogs.microsoft.com/engineering-at-microsoft"
+    },
+    "7": {
+        "name": "Figma Engineering Blog",
+        "url": "https://www.figma.com/blog/engineering/"
+    },
+    "9": {
+        "name": "Spotify Engineering Blog",
+        "url": "https://engineering.atspotify.com"
+    },
+    "10": {
+        "name": "Slack Engineering Blog",
+        "url": "https://slack.engineering"
+    },
+    "11": {
+        "name": "Uber Engineering Blog",
+        "url": "https://www.uber.com/en-US/blog/engineering/"
+    },
+    "12": {
+        "name": "Stripe Engineering Blog",
+        "url": "https://stripe.com/blog/engineering"
+    },
+    "13": {
+        "name": "Discord Engineering Blog",
+        "url": "https://discord.com/category/engineering"
+    },
+    "15": {
+        "name": "GitHub Engineering Blog",
+        "url": "https://github.blog/engineering/"
+    },
+    "16": {
+        "name": "Cloudflare Engineering Blog",
+        "url": "https://blog.cloudflare.com"
+    },
+    "19": {
+        "name": "HubSpot Engineering Blog",
+        "url": "https://product.hubspot.com/blog/topic/engineering"
+    },
+    "22": {
+        "name": "MongoDB Engineering Blog",
+        "url": "https://www.mongodb.com/company/blog"
+    }
+}

@@ -22,12 +22,13 @@ MyRSS tracks two kinds of sources:
 
 Each run follows a simple diff workflow:
 
-1. Scrape every configured URL.
-2. Compare links against history in `track_files/`.
-3. On the **first scrape** for a source, save a baseline and do **not** send an alert.
-4. On later runs, email new items only, update track files, then commit and push.
+1. Retry any unsent digests in `email_outbox/` (`.off.md` files).
+2. Scrape every configured URL.
+3. Compare links against history in `track_files/`.
+4. On the **first scrape** for a source, save a baseline and do **not** send an alert.
+5. On later runs, save the digest to the outbox, email new items only, mark the outbox file as sent, update track files, then commit and push.
 
-Digest emails are sent to `m.shokrnezhad@gmail.com` when there are updates.
+Digest emails are sent to `m.shokrnezhad@gmail.com` when there are updates. Every digest body is saved to `email_outbox/` before sending so failed sends can be retried on the next run.
 
 ## Repository Structure
 
@@ -37,6 +38,7 @@ MyRSS/
 │   ├── cfp_urls.json      # CFP sources (id, name, url)
 │   └── tech_urls.json     # Tech blog sources (id, name, url)
 ├── track_files/           # Per-source link history (one .md file per source)
+├── email_outbox/          # Digest bodies and send status (see below)
 └── .cursor/skills/
     └── daily-rss-scan/    # Agent skill for the daily workflow
         └── SKILL.md
@@ -54,6 +56,8 @@ MyRSS/
 ```
 
 **Track files** — stored as `track_files/{type}-{id}.md` (e.g. `cfp-23.md`, `tech-1.md`). Each entry records a title, link, concise description, and first-seen date.
+
+**Email outbox** — stored in `email_outbox/` as `{YYYY-MM-DD}.off.md` (unsent) or `{YYYY-MM-DD}.sent.md` (delivered). Each file contains a YAML frontmatter line with the email subject, followed by the digest body. Before scraping, the daily scan retries any `.off.md` files; after a successful Resend send, the file is renamed to `.sent.md`.
 
 ## Daily Scan
 
@@ -78,8 +82,9 @@ Or ask the agent to run the daily MyRSS scan.
 | Step | Tool |
 |------|------|
 | Scraping | Web Scraper MCP (fallback: browser MCP or WebFetch) |
-| Email | Resend MCP (`send-email`) |
-| History | Git commit + push to `track_files/` |
+| Email | Resend REST API via `scripts/daily_scan.py` (`RESEND_API_KEY`) |
+| Email history | `email_outbox/` (`.off.md` pending, `.sent.md` delivered) |
+| History | Git commit + push to `track_files/` and `email_outbox/` |
 
 Commit message format: `MyRSS daily scan — YYYY-MM-DD`.
 

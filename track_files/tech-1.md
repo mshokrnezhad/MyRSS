@@ -124,3 +124,18 @@
 - **Link**: https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/
 - **Description**: NVIDIA and AWS Collaborate to Bring AI to Production at Scale
 - **First seen**: 2026-07-05
+
+## How Open Models Are Driving AI Research
+- **Link**: https://blogs.nvidia.com/blog/open-models-icml-2026/
+- **Description**: How Open Models Are Driving AI Research
+- **First seen**: 2026-07-07
+
+## How Nations Are Deploying AI for Strategic Priorities
+- **Link**: https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/
+- **Description**: How Nations Are Deploying AI for Strategic Priorities
+- **First seen**: 2026-07-07
+
+## Joyride Through July With 12 Games Coming to GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/
+- **Description**: Joyride Through July With 12 Games Coming to GeForce NOW
+- **First seen**: 2026-07-07

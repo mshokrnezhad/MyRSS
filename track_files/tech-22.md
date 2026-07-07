@@ -133,3 +133,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/search-way-you-model-nested-embeddings-in-atlas
 - **Description**: Update 6/30/2026: Vector search over nested embeddings is now generally available. See the documentation to get started.
 - **First seen**: 2026-07-05
+
+## Atlas Stream Processing Brings Operational Data to Apache Iceberg Every order placed, message sent, or sensor reading captured lands in an operational database. Analysts, data scientists, and AI teams all want that data, because the freshest signal about a business lives in the systems running it. But getting this data from the application layer to the lakehouse, continuously and at scale, has been one of the most stubborn problems in the modern data stack. July 6, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/atlas-stream-processing-brings-operational-data-to-apache-iceberg
+- **Description**: Every order placed, message sent, or sensor reading captured lands in an operational database. Analysts, data scientists, and AI teams all want that data, becau
+- **First seen**: 2026-07-07

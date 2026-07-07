@@ -99,3 +99,8 @@
 - **Link**: https://blog.cloudflare.com/realtime-threat-intel-waf-rules/
 - **Description**: Turning Cloudflareâs threat indicators into real-time WAF rules
 - **First seen**: 2026-07-05
+
+## Your Worker can now have its own cache in front of it
+- **Link**: https://blog.cloudflare.com/workers-cache/
+- **Description**: Your Worker can now have its own cache in front of it
+- **First seen**: 2026-07-07

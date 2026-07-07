@@ -424,3 +424,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/quantum-communications-and-networking-series-5
 - **Description**: IEEE CFP — Quantum Communications and Networking: Series 5
 - **First seen**: 2026-07-05
+
+## Towards Intellicise Agent Communication Networks: Autonomous Integration and Evolution of Humans and Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/towards-intellicise-agent-communication-networks-autonomous-integration-and-evolution-humans-and-networks
+- **Description**: IEEE CFP — Towards Intellicise Agent Communication Networks: Autonomous Integration and Evo
+- **First seen**: 2026-07-07

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 from dataclasses import dataclass
@@ -18,6 +19,34 @@ ROOT = Path(__file__).resolve().parent.parent
 URLS_DIR = ROOT / "urls"
 TRACK_DIR = ROOT / "track_files"
 TODAY = date.today().isoformat()
+
+DIGEST_TO = os.getenv("RESEND_TO", "m.shokrnezhad@gmail.com")
+RESEND_FROM = os.getenv("RESEND_FROM", "onboarding@resend.dev")
+RESEND_API_URL = "https://api.resend.com/emails"
+
+TECH_SKIP_PATTERNS = (
+    r"\bgeforce now\b",
+    r"\bgames (coming|list)\b",
+    r"\b(now available|introducing|announc\w+|launch\w+|unveil\w+)\b",
+    r"\b(hiring|we're hiring|join our team)\b",
+    r"\b(gdc|event recap|conference recap)\b",
+    r"\b(partnership|collaborat\w+ with|bring .+ to .+ community)\b",
+    r"\b(plans to upskill|graduation season|celebrating)\b",
+    r"\bstrategic priorities\b",
+    r"\bcapital partners\b",
+    r"\bstream processing brings\b",
+    r"\b(the new .+ cache api|smart placement cache)\b",
+    r"\btalent from\b",
+)
+TECH_INCLUDE_PATTERNS = (
+    r"\bhow (we|to|open)\b",
+    r"\b(from .+ to .+|architecture|pattern|migration|moderniz)\b",
+    r"\b(scaling|performance|deep dive|under the hood)\b",
+    r"\b(research|algorithm|distributed|infrastructure)\b",
+    r"\bbuilding (a|on|with)\b",
+    r"\blessons from\b",
+    r"\bdesign\b",
+)
 
 HEADERS = {
     "User-Agent": (
@@ -412,6 +441,81 @@ def scrape_source(source_type: str, source_id: str, name: str, url: str) -> list
     return parser(html, url)
 
 
+def is_conceptual_tech_post(item: Item) -> bool:
+    text = f"{item.title} {item.description}".lower()
+    if any(re.search(pat, text, re.I) for pat in TECH_SKIP_PATTERNS):
+        return False
+    return any(re.search(pat, text, re.I) for pat in TECH_INCLUDE_PATTERNS)
+
+
+def compose_digest(
+    cfp_items: list[Item],
+    tech_items: list[Item],
+    failures: list[tuple[str, str, str]],
+) -> str:
+    lines = [f"# MyRSS Daily — {TODAY}", ""]
+
+    lines.append("## CFP updates")
+    if cfp_items:
+        for item in cfp_items:
+            lines.extend([f"### {item.title}", item.link, item.description, ""])
+    else:
+        lines.extend(["_No new CFPs today._", ""])
+
+    lines.append("## Tech reads")
+    if tech_items:
+        for item in tech_items:
+            lines.extend([f"### {item.title}", item.link, item.description, ""])
+    else:
+        lines.extend(["_No new conceptual tech posts today._", ""])
+
+    if failures:
+        lines.extend(["---", "Scrape failures:"])
+        for name, url, err in failures:
+            lines.append(f"- {name} ({url}): {err}")
+
+    return "\n".join(lines)
+
+
+def send_digest_email(
+    cfp_items: list[Item],
+    tech_items: list[Item],
+    failures: list[tuple[str, str, str]],
+) -> str | None:
+    api_key = os.getenv("RESEND_API_KEY")
+    if not api_key:
+        print("EMAIL skipped: RESEND_API_KEY not set", file=sys.stderr)
+        return None
+
+    digest_count = len(cfp_items) + len(tech_items)
+    subject = f"MyRSS Daily — {TODAY}"
+    if digest_count:
+        subject = f"MyRSS Daily — {TODAY} ({digest_count} updates)"
+
+    body = compose_digest(cfp_items, tech_items, failures if digest_count else [])
+    resp = requests.post(
+        RESEND_API_URL,
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        json={
+            "from": RESEND_FROM,
+            "to": [DIGEST_TO],
+            "subject": subject,
+            "text": body,
+        },
+        timeout=30,
+    )
+    if resp.status_code >= 400:
+        print(f"EMAIL failed: {resp.text}", file=sys.stderr)
+        return None
+
+    email_id = resp.json().get("id")
+    print(f"EMAIL sent id={email_id} to={DIGEST_TO} updates={digest_count}")
+    return email_id
+
+
 def main() -> int:
     failures: list[tuple[str, str, str]] = []
     new_items_for_email: dict[str, list[Item]] = {"cfp": [], "tech": []}
@@ -448,8 +552,21 @@ def main() -> int:
                     changed = True
                     print(f"UPDATED {track_path.name}: +{len(new_items)} new")
 
+    cfp_for_email = new_items_for_email["cfp"]
+    tech_for_email = [i for i in new_items_for_email["tech"] if is_conceptual_tech_post(i)]
+    filtered_tech = len(new_items_for_email["tech"]) - len(tech_for_email)
+    digest_count = len(cfp_for_email) + len(tech_for_email)
+
+    if digest_count:
+        send_digest_email(cfp_for_email, tech_for_email, failures)
+    else:
+        print("EMAIL skipped: no qualifying digest items")
+
     total_new = sum(len(v) for v in new_items_for_email.values())
-    print(f"SUMMARY new_items={total_new} changed={changed} failures={len(failures)}")
+    print(
+        f"SUMMARY new_items={total_new} digest_items={digest_count} "
+        f"tech_filtered={filtered_tech} changed={changed} failures={len(failures)}"
+    )
     if failures:
         for name, url, err in failures:
             print(f"  - {name}: {err}", file=sys.stderr)

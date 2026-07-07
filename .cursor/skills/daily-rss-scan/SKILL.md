@@ -33,11 +33,12 @@ Copy and track progress:
 ```
 Daily scan:
 - [ ] 0. Sync main (no new branches)
-- [ ] 1. Load url lists
-- [ ] 2. Scrape and diff each source
-- [ ] 3. Send digest email (if updates exist)
-- [ ] 4. Update track_files
-- [ ] 5. Commit and push to main
+- [ ] 1. Retry pending outbox emails (`*.off.md`)
+- [ ] 2. Load url lists
+- [ ] 3. Scrape and diff each source
+- [ ] 4. Save digest to outbox and send (if updates exist)
+- [ ] 5. Update track_files
+- [ ] 6. Commit and push to main
 ```
 
 ### Step 0 — Sync main
@@ -55,11 +56,17 @@ git pull origin main
 - Open a pull request
 - Push to any branch other than `main`
 
-### Step 1 — Load sources
+### Step 1 — Retry pending outbox emails
+
+Before scraping, check `email_outbox/` for unsent digests (`{YYYY-MM-DD}.off.md`). Attempt to send each one via the Resend REST API (`RESEND_API_KEY`). On success, rename to `{YYYY-MM-DD}.sent.md`.
+
+This ensures digests survive API outages and are delivered on the next run.
+
+### Step 2 — Load sources
 
 Read `urls/cfp_urls.json` and `urls/tech_urls.json`.
 
-### Step 2 — Scrape and diff
+### Step 3 — Scrape and diff
 
 For **every** URL in both files:
 
@@ -88,14 +95,21 @@ For **every** URL in both files:
 
 On scrape failure for one URL: log the error, continue with remaining URLs, mention failures in the email if any updates were sent.
 
-### Step 3 — Email digest
+### Step 4 — Email digest
 
 Send only when at least one new item was found across all sources.
 
-- **MCP**: Resend (`send-email`) — read tool schema before calling.
+- **API**: Resend REST API via `scripts/daily_scan.py` using `RESEND_API_KEY` (not MCP).
 - **To**: `m.shokrnezhad@gmail.com`
-- **From**: use the user's configured Resend sender address (ask once if unknown; do not invent).
+- **From**: `RESEND_FROM` env var, default `onboarding@resend.dev`
 - **Subject**: `MyRSS Daily — {YYYY-MM-DD}` or `MyRSS Daily — {YYYY-MM-DD} ({N} updates)`
+
+**Outbox** (`email_outbox/`):
+
+- Save every digest body before sending: `{YYYY-MM-DD}.off.md`
+- File format: YAML frontmatter with `subject:` line, then markdown body
+- On successful send, rename to `{YYYY-MM-DD}.sent.md`
+- If send fails, leave as `.off.md` — next run retries before scraping
 
 **Body template**:
 
@@ -118,9 +132,9 @@ Send only when at least one new item was found across all sources.
 {If any scrape failures: list source name + URL + error}
 ```
 
-If no updates anywhere: skip email; still commit if track files were created during first-run baselines.
+If no updates anywhere: skip email; still commit if track files or outbox files changed during first-run baselines.
 
-### Step 4 — Update track files
+### Step 5 — Update track files
 
 Write or append using this entry format:
 
@@ -133,13 +147,13 @@ Write or append using this entry format:
 
 New baselines: file header `# {source name}` then all entries.
 
-### Step 5 — Git
+### Step 6 — Git
 
-Stay on `main`. Only when track files changed:
+Stay on `main`. When track files or outbox files changed:
 
 ```bash
 git checkout main
-git add track_files/
+git add track_files/ email_outbox/
 git commit -m "MyRSS daily scan — {YYYY-MM-DD}"
 git push origin main
 ```

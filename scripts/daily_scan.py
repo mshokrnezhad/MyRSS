@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent.parent
 URLS_DIR = ROOT / "urls"
 TRACK_DIR = ROOT / "track_files"
+OUTBOX_DIR = ROOT / "email_outbox"
 TODAY = date.today().isoformat()
 
 DIGEST_TO = os.getenv("RESEND_TO", "m.shokrnezhad@gmail.com")
@@ -452,8 +453,11 @@ def compose_digest(
     cfp_items: list[Item],
     tech_items: list[Item],
     failures: list[tuple[str, str, str]],
+    *,
+    digest_date: str = TODAY,
+    filtered_tech_count: int = 0,
 ) -> str:
-    lines = [f"# MyRSS Daily — {TODAY}", ""]
+    lines = [f"# MyRSS Daily — {digest_date}", ""]
 
     lines.append("## CFP updates")
     if cfp_items:
@@ -474,25 +478,59 @@ def compose_digest(
         for name, url, err in failures:
             lines.append(f"- {name} ({url}): {err}")
 
+    if filtered_tech_count:
+        lines.extend(
+            [
+                "",
+                "---",
+                "Note: "
+                f"{filtered_tech_count} additional tech item"
+                f"{'s were' if filtered_tech_count != 1 else ' was'} "
+                "tracked but filtered out (product launches, game announcements, or release posts).",
+            ]
+        )
+
     return "\n".join(lines)
 
 
-def send_digest_email(
-    cfp_items: list[Item],
-    tech_items: list[Item],
-    failures: list[tuple[str, str, str]],
-) -> str | None:
+def digest_subject(digest_date: str, digest_count: int) -> str:
+    subject = f"MyRSS Daily — {digest_date}"
+    if digest_count:
+        subject = f"{subject} ({digest_count} updates)"
+    return subject
+
+
+def outbox_path(digest_date: str, *, sent: bool = False) -> Path:
+    flag = "sent" if sent else "off"
+    return OUTBOX_DIR / f"{digest_date}.{flag}.md"
+
+
+def parse_outbox_file(path: Path) -> tuple[str, str]:
+    text = path.read_text()
+    match = re.match(r"^---\n(.*?)\n---\n\n?(.*)\Z", text, re.DOTALL)
+    if not match:
+        raise ValueError(f"Invalid outbox file format: {path.name}")
+    frontmatter, body = match.group(1), match.group(2)
+    subject_match = re.search(r"^subject:\s*(.+)$", frontmatter, re.M)
+    if not subject_match:
+        raise ValueError(f"Missing subject in outbox file: {path.name}")
+    return subject_match.group(1).strip(), body.rstrip()
+
+
+def write_outbox_file(digest_date: str, subject: str, body: str) -> Path:
+    OUTBOX_DIR.mkdir(parents=True, exist_ok=True)
+    path = outbox_path(digest_date, sent=False)
+    path.write_text(f"---\nsubject: {subject}\n---\n\n{body.rstrip()}\n")
+    print(f"OUTBOX saved {path.name}")
+    return path
+
+
+def send_email(subject: str, body: str) -> str | None:
     api_key = os.getenv("RESEND_API_KEY")
     if not api_key:
         print("EMAIL skipped: RESEND_API_KEY not set", file=sys.stderr)
         return None
 
-    digest_count = len(cfp_items) + len(tech_items)
-    subject = f"MyRSS Daily — {TODAY}"
-    if digest_count:
-        subject = f"MyRSS Daily — {TODAY} ({digest_count} updates)"
-
-    body = compose_digest(cfp_items, tech_items, failures if digest_count else [])
     resp = requests.post(
         RESEND_API_URL,
         headers={
@@ -512,11 +550,63 @@ def send_digest_email(
         return None
 
     email_id = resp.json().get("id")
-    print(f"EMAIL sent id={email_id} to={DIGEST_TO} updates={digest_count}")
+    print(f"EMAIL sent id={email_id} to={DIGEST_TO} subject={subject!r}")
     return email_id
 
 
+def mark_outbox_sent(path: Path) -> Path:
+    digest_date = path.name.split(".", 1)[0]
+    sent_path = outbox_path(digest_date, sent=True)
+    path.rename(sent_path)
+    print(f"OUTBOX marked sent {sent_path.name}")
+    return sent_path
+
+
+def send_outbox_file(path: Path) -> str | None:
+    subject, body = parse_outbox_file(path)
+    email_id = send_email(subject, body)
+    if email_id:
+        mark_outbox_sent(path)
+    return email_id
+
+
+def process_pending_outbox() -> int:
+    OUTBOX_DIR.mkdir(parents=True, exist_ok=True)
+    pending = sorted(OUTBOX_DIR.glob("*.off.md"))
+    sent_count = 0
+    for path in pending:
+        print(f"OUTBOX retry {path.name}")
+        if send_outbox_file(path):
+            sent_count += 1
+    return sent_count
+
+
+def send_digest_email(
+    cfp_items: list[Item],
+    tech_items: list[Item],
+    failures: list[tuple[str, str, str]],
+    *,
+    digest_date: str = TODAY,
+    filtered_tech_count: int = 0,
+) -> str | None:
+    digest_count = len(cfp_items) + len(tech_items)
+    subject = digest_subject(digest_date, digest_count)
+    body = compose_digest(
+        cfp_items,
+        tech_items,
+        failures if digest_count else [],
+        digest_date=digest_date,
+        filtered_tech_count=filtered_tech_count,
+    )
+    write_outbox_file(digest_date, subject, body)
+    return send_outbox_file(outbox_path(digest_date, sent=False))
+
+
 def main() -> int:
+    pending_sent = process_pending_outbox()
+    if pending_sent:
+        print(f"OUTBOX delivered {pending_sent} pending digest(s)")
+
     failures: list[tuple[str, str, str]] = []
     new_items_for_email: dict[str, list[Item]] = {"cfp": [], "tech": []}
     changed = False
@@ -558,7 +648,12 @@ def main() -> int:
     digest_count = len(cfp_for_email) + len(tech_for_email)
 
     if digest_count:
-        send_digest_email(cfp_for_email, tech_for_email, failures)
+        send_digest_email(
+            cfp_for_email,
+            tech_for_email,
+            failures,
+            filtered_tech_count=filtered_tech,
+        )
     else:
         print("EMAIL skipped: no qualifying digest items")
 

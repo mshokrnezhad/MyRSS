@@ -139,3 +139,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/
 - **Description**: Joyride Through July With 12 Games Coming to GeForce NOW
 - **First seen**: 2026-07-07
+
+## NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community
+- **Link**: https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
+- **Description**: NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community
+- **First seen**: 2026-07-07

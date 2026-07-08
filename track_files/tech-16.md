@@ -104,3 +104,8 @@
 - **Link**: https://blog.cloudflare.com/workers-cache/
 - **Description**: Your Worker can now have its own cache in front of it
 - **First seen**: 2026-07-07
+
+## Cloudflare proudly joins the UK government's Cyber Resilience Pledge
+- **Link**: https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/
+- **Description**: Cloudflare proudly joins the UK government's Cyber Resilience Pledge
+- **First seen**: 2026-07-08

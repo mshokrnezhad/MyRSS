@@ -144,3 +144,18 @@
 - **Link**: https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/
 - **Description**: NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community
 - **First seen**: 2026-07-07
+
+## AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters
+- **Link**: https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/
+- **Description**: AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters
+- **First seen**: 2026-07-08
+
+## Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture
+- **Link**: https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/
+- **Description**: Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture
+- **First seen**: 2026-07-08
+
+## NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain
+- **Link**: https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/
+- **Description**: NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain
+- **First seen**: 2026-07-08

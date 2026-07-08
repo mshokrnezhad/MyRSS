@@ -138,3 +138,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/atlas-stream-processing-brings-operational-data-to-apache-iceberg
 - **Description**: Every order placed, message sent, or sensor reading captured lands in an operational database. Analysts, data scientists, and AI teams all want that data, becau
 - **First seen**: 2026-07-07
+
+## Introducing Atlas Gen2 on AWS for M30+ Dedicated Clusters Today, we’re introducing Gen2 for Atlas M30+ Dedicated Clusters on AWS: a major step forward in performance, cost control, and infrastructure flexibility for teams running production workloads on MongoDB Atlas. July 7, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-atlas-gen2-on-aws-m30-dedicated-clusters
+- **Description**: Today, we’re introducing Gen2 for Atlas M30+ Dedicated Clusters on AWS: a major step forward in performance, cost control, and infrastructure flexibility for te
+- **First seen**: 2026-07-08

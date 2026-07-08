@@ -124,3 +124,8 @@
 - **Link**: https://research.google/blog/label/sound-accoustics
 - **Description**: Sound & Accoustics
 - **First seen**: 2026-07-05
+
+## July 7, 2026 The power of collaboration: How we can reduce traffic congestion Algorithms & Theory · Climate & Sustainability · Data Mining & Modeling
+- **Link**: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/
+- **Description**: July 7, 2026 The power of collaboration: How we can reduce traffic congestion Algorithms & Theory · Climate & Sustainabi
+- **First seen**: 2026-07-08

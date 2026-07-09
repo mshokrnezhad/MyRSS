@@ -369,3 +369,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/5g-testing-and-field-trials
 - **Description**: IEEE CFP — 5G Testing and Field Trials
 - **First seen**: 2026-07-05
+
+## Agentified Embodied AI for Mobile Edge General Intelligence
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/agentified-embodied-ai-mobile-edge-general-intelligence
+- **Description**: IEEE CFP — Agentified Embodied AI for Mobile Edge General Intelligence
+- **First seen**: 2026-07-09

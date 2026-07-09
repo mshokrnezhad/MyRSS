@@ -159,3 +159,8 @@
 - **Link**: https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/
 - **Description**: NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain
 - **First seen**: 2026-07-08
+
+## NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness
+- **Link**: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
+- **Description**: NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness
+- **First seen**: 2026-07-09

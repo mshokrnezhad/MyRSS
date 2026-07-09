@@ -109,3 +109,8 @@
 - **Link**: https://blog.cloudflare.com/cloudflare-joins-uk-cyber-resilience-pledge/
 - **Description**: Cloudflare proudly joins the UK government's Cyber Resilience Pledge
 - **First seen**: 2026-07-08
+
+## Introducing Meerkat: an experiment in global consensus
+- **Link**: https://blog.cloudflare.com/meerkat-introduction/
+- **Description**: Introducing Meerkat: an experiment in global consensus
+- **First seen**: 2026-07-09

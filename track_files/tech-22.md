@@ -143,3 +143,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-atlas-gen2-on-aws-m30-dedicated-clusters
 - **Description**: Today, we’re introducing Gen2 for Atlas M30+ Dedicated Clusters on AWS: a major step forward in performance, cost control, and infrastructure flexibility for te
 - **First seen**: 2026-07-08
+
+## “Hello, Community!”: Meet the 2026 MongoDB Champions! We are thrilled to announce this year’s new cohort of MongoDB Champions! July 8, 2026
+- **Link**: https://www.mongodb.com/company/blog/news/hello-community-meet-2026-mongodb-champions
+- **Description**: We are thrilled to announce this year’s new cohort of MongoDB Champions!
+- **First seen**: 2026-07-09

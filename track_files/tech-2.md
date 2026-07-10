@@ -129,3 +129,8 @@
 - **Link**: https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/
 - **Description**: July 7, 2026 The power of collaboration: How we can reduce traffic congestion Algorithms & Theory · Climate & Sustainabi
 - **First seen**: 2026-07-08
+
+## July 9, 2026 SensorFM: Towards a general intelligence and interface for wearable health data Generative AI · Machine Intelligence
+- **Link**: https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/
+- **Description**: July 9, 2026 SensorFM: Towards a general intelligence and interface for wearable health data Generative AI · Machine Int
+- **First seen**: 2026-07-10

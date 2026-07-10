@@ -114,3 +114,8 @@
 - **Link**: https://blog.cloudflare.com/meerkat-introduction/
 - **Description**: Introducing Meerkat: an experiment in global consensus
 - **First seen**: 2026-07-09
+
+## Why we cannot wait for better post-quantum signature algorithms
+- **Link**: https://blog.cloudflare.com/ml-dsa-will-have-to-do/
+- **Description**: Why we cannot wait for better post-quantum signature algorithms
+- **First seen**: 2026-07-10

@@ -114,3 +114,18 @@
 - **Link**: https://www.uber.com/us/en/blog/freight/
 - **Description**: Freight Taking shipping logistics in a new direction
 - **First seen**: 2026-07-05
+
+## GitFarm: Git® as a Service for Large-Scale Monorepos
+- **Link**: https://www.uber.com/us/en/blog/gitfarm-as-a-service/
+- **Description**: GitFarm: Git® as a Service for Large-Scale Monorepos
+- **First seen**: 2026-07-10
+
+## Zone-Failure-Resilient OpenSearch® at Uber
+- **Link**: https://www.uber.com/us/en/blog/zone-failure-resilient/
+- **Description**: Zone-Failure-Resilient OpenSearch® at Uber
+- **First seen**: 2026-07-10
+
+## Scaling Verify with Wallet for Identity Verification at Uber
+- **Link**: https://www.uber.com/us/en/blog/scaling-verify-wallet/
+- **Description**: Scaling Verify with Wallet for Identity Verification at Uber
+- **First seen**: 2026-07-10

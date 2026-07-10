@@ -234,3 +234,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/optical-wireless-communications
 - **Description**: IEEE CFP — Optical Wireless Communications
 - **First seen**: 2026-07-05
+
+## Advanced Wireless Communication Technologies for Satellite-Terrestrial Integrated Networks
+- **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/advanced-wireless-communication-technologies-satellite-terrestrial-integrated-networks
+- **Description**: IEEE CFP — Advanced Wireless Communication Technologies for Satellite-Terrestrial Integrate
+- **First seen**: 2026-07-10

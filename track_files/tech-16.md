@@ -119,3 +119,8 @@
 - **Link**: https://blog.cloudflare.com/ml-dsa-will-have-to-do/
 - **Description**: Why we cannot wait for better post-quantum signature algorithms
 - **First seen**: 2026-07-10
+
+## Improving Smart Tiered Cache for Public Cloud Regions
+- **Link**: https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/
+- **Description**: Improving Smart Tiered Cache for Public Cloud Regions
+- **First seen**: 2026-07-11

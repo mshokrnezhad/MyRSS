@@ -344,3 +344,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/series-network
 - **Description**: IEEE CFP — Series on Network Softwarization & Enablers
 - **First seen**: 2026-07-05
+
+## Agentic AI for Intelligent Networks
+- **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/agentic-ai-intelligent-networks
+- **Description**: IEEE CFP — Agentic AI for Intelligent Networks
+- **First seen**: 2026-07-14

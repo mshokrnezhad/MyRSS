@@ -124,3 +124,8 @@
 - **Link**: https://blog.cloudflare.com/smart-tiered-cache-for-public-clouds/
 - **Description**: Improving Smart Tiered Cache for Public Cloud Regions
 - **First seen**: 2026-07-11
+
+## Introducing Precursor: detecting agentic behavior with continuous client-side signals
+- **Link**: https://blog.cloudflare.com/introducing-precursor/
+- **Description**: Introducing Precursor: detecting agentic behavior with continuous client-side signals
+- **First seen**: 2026-07-14

@@ -129,3 +129,8 @@
 - **Link**: https://blog.cloudflare.com/introducing-precursor/
 - **Description**: Introducing Precursor: detecting agentic behavior with continuous client-side signals
 - **First seen**: 2026-07-14
+
+## A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed
+- **Link**: https://blog.cloudflare.com/dnssec-nta-ede-33/
+- **Description**: A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed
+- **First seen**: 2026-07-15

@@ -49,3 +49,8 @@
 - **Link**: https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/
 - **Description**: Advancing Our Chef Infrastructure: Safety Without Disruption
 - **First seen**: 2026-07-05
+
+## Shipyard: How We Built Slack’s Next-Generation EC2 Platform
+- **Link**: https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/
+- **Description**: Shipyard: How We Built Slack’s Next-Generation EC2 Platform
+- **First seen**: 2026-07-15

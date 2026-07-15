@@ -164,3 +164,18 @@
 - **Link**: https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/
 - **Description**: NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness
 - **First seen**: 2026-07-09
+
+## Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize
+- **Link**: https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/
+- **Description**: Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize
+- **First seen**: 2026-07-15
+
+## Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency
+- **Link**: https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/
+- **Description**: Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency
+- **First seen**: 2026-07-15
+
+## GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/
+- **Description**: GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server
+- **First seen**: 2026-07-15

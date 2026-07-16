@@ -374,3 +374,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/agentified-embodied-ai-mobile-edge-general-intelligence
 - **Description**: IEEE CFP — Agentified Embodied AI for Mobile Edge General Intelligence
 - **First seen**: 2026-07-09
+
+## Wireless Information Forensics and Security in the 6G Era: Foundations, Intelligence, and Emerging Applications
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/wireless-information-forensics-and-security-6g-era-foundations-intelligence-and-emerging-applications
+- **Description**: IEEE CFP — Wireless Information Forensics and Security in the 6G Era: Foundations, Intellig
+- **First seen**: 2026-07-16

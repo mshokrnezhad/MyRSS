@@ -99,3 +99,88 @@
 - **Link**: https://stripe.com/blog/singapore-eng-office
 - **Description**: Stripe launched in Singapore in 2016. Since then, we’ve seen strong traction, and are proud to work with some of the fastest-growing companies in the region, in
 - **First seen**: 2026-07-05
+
+## 2026.7.02 Keeping funds where they belong: Implementing fund segregation in Stripe Connect
+- **Link**: https://stripe.com/blog/fund-segregation-stripe-connect
+- **Description**: 2026.7.02 Keeping funds where they belong: Implementing fund segregation in Stripe Connect
+- **First seen**: 2026-07-16
+
+## 2026.6.24 Introducing a better way to process Stripe's thin events
+- **Link**: https://stripe.com/blog/event-notification-handlers-thin-events
+- **Description**: 2026.6.24 Introducing a better way to process Stripe's thin events
+- **First seen**: 2026-07-16
+
+## 2026.6.22 Extending Stripe’s network with stablecoins
+- **Link**: https://stripe.com/blog/extending-stripes-network-with-stablecoins
+- **Description**: 2026.6.22 Extending Stripe’s network with stablecoins
+- **First seen**: 2026-07-16
+
+## 2026.6.16 From hobby to real world: integrating the hard stuff with agents
+- **Link**: https://stripe.com/blog/integrating-services-with-agents-stripe-projects
+- **Description**: 2026.6.16 From hobby to real world: integrating the hard stuff with agents
+- **First seen**: 2026-07-16
+
+## 2026.6.15 How API changes flow into Stripe's developer products
+- **Link**: https://stripe.com/blog/how-api-changes-flow-into-stripes-developer-products
+- **Description**: 2026.6.15 How API changes flow into Stripe's developer products
+- **First seen**: 2026-07-16
+
+## 2026.6.08 Scaling up your microservice testing with Apache Spark—Part 2
+- **Link**: https://stripe.com/blog/microservice-testing-with-apache-spark-part-2
+- **Description**: 2026.6.08 Scaling up your microservice testing with Apache Spark—Part 2
+- **First seen**: 2026-07-16
+
+## 2026.6.01 Scaling up your microservice testing with Apache Spark
+- **Link**: https://stripe.com/blog/microservice-testing-with-apache-spark
+- **Description**: 2026.6.01 Scaling up your microservice testing with Apache Spark
+- **First seen**: 2026-07-16
+
+## 2026.5.27 Modern Java at Stripe: Language upgrades as a service
+- **Link**: https://stripe.com/blog/modern-java-at-stripe-language-upgrades-as-a-service
+- **Description**: 2026.5.27 Modern Java at Stripe: Language upgrades as a service
+- **First seen**: 2026-07-16
+
+## 2026.5.26 What it feels like building with Stripe Projects
+- **Link**: https://stripe.com/blog/what-it-feels-like-building-with-stripe-projects
+- **Description**: 2026.5.26 What it feels like building with Stripe Projects
+- **First seen**: 2026-07-16
+
+## 2026.5.04 Learnings from init to deploy
+- **Link**: https://stripe.com/blog/learnings-from-building-with-agents-stripe-projects
+- **Description**: 2026.5.04 Learnings from init to deploy
+- **First seen**: 2026-07-16
+
+## 2026.4.29 From init to deploy: building with agents and Stripe Projects
+- **Link**: https://stripe.com/blog/building-with-agents-stripe-projects
+- **Description**: 2026.4.29 From init to deploy: building with agents and Stripe Projects
+- **First seen**: 2026-07-16
+
+## 2026.4.28 Formatting an entire 25 million line codebase overnight: the rubyfmt story
+- **Link**: https://stripe.com/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story
+- **Description**: 2026.4.28 Formatting an entire 25 million line codebase overnight: the rubyfmt story
+- **First seen**: 2026-07-16
+
+## 2026.4.16 How we built Stripe Credits: A programmable, auditable way to pay your Stripe fees
+- **Link**: https://stripe.com/blog/how-we-built-stripe-credits-a-programmable-auditable-way-to-pay-your-stripe-fees
+- **Description**: 2026.4.16 How we built Stripe Credits: A programmable, auditable way to pay your Stripe fees
+- **First seen**: 2026-07-16
+
+## 2026.4.09 Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo
+- **Link**: https://stripe.com/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo
+- **Description**: 2026.4.09 Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo
+- **First seen**: 2026-07-16
+
+## 2026.3.26 Provision a production-ready dev stack from your terminal
+- **Link**: https://stripe.com/blog/production-ready-dev-stack-from-terminal
+- **Description**: 2026.3.26 Provision a production-ready dev stack from your terminal
+- **First seen**: 2026-07-16
+
+## 2026.2.19 Minions: Stripe’s one-shot, end-to-end coding agents—Part 2
+- **Link**: https://stripe.com/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
+- **Description**: 2026.2.19 Minions: Stripe’s one-shot, end-to-end coding agents—Part 2
+- **First seen**: 2026-07-16
+
+## 2026.2.09 Minions: Stripe’s one-shot, end-to-end coding agents
+- **Link**: https://stripe.com/blog/minions-stripes-one-shot-end-to-end-coding-agents
+- **Description**: 2026.2.09 Minions: Stripe’s one-shot, end-to-end coding agents
+- **First seen**: 2026-07-16

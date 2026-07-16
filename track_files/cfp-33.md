@@ -349,3 +349,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/agentic-ai-intelligent-networks
 - **Description**: IEEE CFP — Agentic AI for Intelligent Networks
 - **First seen**: 2026-07-14
+
+## Next-Generation Underwater Acoustic Communication Systems
+- **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/next-generation-underwater-acoustic-communication-systems
+- **Description**: IEEE CFP — Next-Generation Underwater Acoustic Communication Systems
+- **First seen**: 2026-07-16

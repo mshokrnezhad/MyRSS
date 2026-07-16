@@ -134,3 +134,23 @@
 - **Link**: https://blog.cloudflare.com/dnssec-nta-ede-33/
 - **Description**: A broken DNSSEC rollover took down .AL. Now 1.1.1.1 tells you when validation is bypassed
 - **First seen**: 2026-07-15
+
+## EspaÃ±ol (LatinoamÃ©rica)
+- **Link**: https://blog.cloudflare.com/es-la/
+- **Description**: EspaÃ±ol (LatinoamÃ©rica)
+- **First seen**: 2026-07-16
+
+## Bahasa Indonesia
+- **Link**: https://blog.cloudflare.com/id-id/
+- **Description**: Bahasa Indonesia
+- **First seen**: 2026-07-16
+
+## à¸ à¸²à¸©à¸²à¹à¸à¸¢
+- **Link**: https://blog.cloudflare.com/th-th/
+- **Description**: à¸ à¸²à¸©à¸²à¹à¸à¸¢
+- **First seen**: 2026-07-16
+
+## opens in a new tab
+- **Link**: https://blog.cloudflare.com/rss/
+- **Description**: opens in a new tab
+- **First seen**: 2026-07-16

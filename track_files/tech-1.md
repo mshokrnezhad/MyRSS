@@ -179,3 +179,13 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/
 - **Description**: GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server
 - **First seen**: 2026-07-15
+
+## NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry
+- **Link**: https://blogs.nvidia.com/blog/japan-ecosystem-2026/
+- **Description**: NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry
+- **First seen**: 2026-07-16
+
+## NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI
+- **Link**: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
+- **Description**: NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI
+- **First seen**: 2026-07-16

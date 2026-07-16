@@ -134,3 +134,8 @@
 - **Link**: https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/
 - **Description**: July 9, 2026 SensorFM: Towards a general intelligence and interface for wearable health data Generative AI · Machine Int
 - **First seen**: 2026-07-10
+
+## July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory · Generative AI · Machine Intelligence
+- **Link**: https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
+- **Description**: July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory · Generative AI · Machine Inte
+- **First seen**: 2026-07-16

@@ -184,3 +184,8 @@
 - **Link**: https://stripe.com/blog/minions-stripes-one-shot-end-to-end-coding-agents
 - **Description**: 2026.2.09 Minions: Stripe’s one-shot, end-to-end coding agents
 - **First seen**: 2026-07-16
+
+## 2026.7.16 How Stripe uses graph search and state machines to auto-remediate a global database fleet
+- **Link**: https://stripe.com/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet
+- **Description**: 2026.7.16 How Stripe uses graph search and state machines to auto-remediate a global database fleet
+- **First seen**: 2026-07-17

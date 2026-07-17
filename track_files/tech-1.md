@@ -189,3 +189,8 @@
 - **Link**: https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/
 - **Description**: NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI
 - **First seen**: 2026-07-16
+
+## Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
+- **Description**: Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW
+- **First seen**: 2026-07-17

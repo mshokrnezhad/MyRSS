@@ -154,3 +154,8 @@
 - **Link**: https://blog.cloudflare.com/rss/
 - **Description**: opens in a new tab
 - **First seen**: 2026-07-16
+
+## Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities
+- **Link**: https://blog.cloudflare.com/wordpress-vulnerabilities/
+- **Description**: Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities
+- **First seen**: 2026-07-18

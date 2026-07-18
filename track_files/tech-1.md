@@ -194,3 +194,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/
 - **Description**: Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW
 - **First seen**: 2026-07-17
+
+## NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI
+- **Link**: https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
+- **Description**: NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI
+- **First seen**: 2026-07-18

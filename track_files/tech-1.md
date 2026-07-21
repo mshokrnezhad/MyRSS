@@ -199,3 +199,13 @@
 - **Link**: https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/
 - **Description**: NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI
 - **First seen**: 2026-07-18
+
+## At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI
+- **Link**: https://blogs.nvidia.com/blog/siggraph-news-2026/
+- **Description**: At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI
+- **First seen**: 2026-07-21
+
+## Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin
+- **Link**: https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
+- **Description**: Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin
+- **First seen**: 2026-07-21

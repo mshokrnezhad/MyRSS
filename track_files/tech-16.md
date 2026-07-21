@@ -159,3 +159,8 @@
 - **Link**: https://blog.cloudflare.com/wordpress-vulnerabilities/
 - **Description**: Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities
 - **First seen**: 2026-07-18
+
+## Cloudflare Internal DNS is now generally available
+- **Link**: https://blog.cloudflare.com/internal-dns/
+- **Description**: Cloudflare Internal DNS is now generally available
+- **First seen**: 2026-07-21

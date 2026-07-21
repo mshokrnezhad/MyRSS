@@ -64,3 +64,8 @@
 - **Link**: https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2
 - **Description**: Background Coding Agents: Context Engineering (Honk, Part 2)
 - **First seen**: 2026-07-05
+
+## Content Ingestion & Podcast Video Incident Report
+- **Link**: https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report
+- **Description**: Content Ingestion & Podcast Video Incident Report
+- **First seen**: 2026-07-21

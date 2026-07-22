@@ -209,3 +209,18 @@
 - **Link**: https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/
 - **Description**: Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin
 - **First seen**: 2026-07-21
+
+## Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems
+- **Link**: https://blogs.nvidia.com/blog/wistron-manufacturing-texas/
+- **Description**: Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems
+- **First seen**: 2026-07-22
+
+## NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide
+- **Link**: https://blogs.nvidia.com/blog/vera-rubin/
+- **Description**: NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide
+- **First seen**: 2026-07-22
+
+## Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories
+- **Link**: https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
+- **Description**: Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories
+- **First seen**: 2026-07-22

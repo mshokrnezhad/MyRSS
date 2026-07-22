@@ -164,3 +164,8 @@
 - **Link**: https://blog.cloudflare.com/internal-dns/
 - **Description**: Cloudflare Internal DNS is now generally available
 - **First seen**: 2026-07-21
+
+## How the 2026 World Cup affected Internet traffic
+- **Link**: https://blog.cloudflare.com/2026-world-cup-internet-traffic/
+- **Description**: How the 2026 World Cup affected Internet traffic
+- **First seen**: 2026-07-22

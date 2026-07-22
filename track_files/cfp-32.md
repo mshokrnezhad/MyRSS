@@ -269,3 +269,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/communications-iot-connectivity-networking
 - **Description**: IEEE CFP — Communications for IoT – Connectivity & Networking
 - **First seen**: 2026-07-05
+
+## Intelligent Pattern Recognition in IoT: From Sensing to Edge–Cloud Collaborative Intelligence
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/intelligent-pattern-recognition-iot-sensing-edge-cloud-collaborative-intelligence
+- **Description**: IEEE CFP — Intelligent Pattern Recognition in IoT: From Sensing to Edge–Cloud Collaborative
+- **First seen**: 2026-07-22

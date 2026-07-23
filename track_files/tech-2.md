@@ -139,3 +139,8 @@
 - **Link**: https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
 - **Description**: July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory · Generative AI · Machine Inte
 - **First seen**: 2026-07-16
+
+## July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bioscience · Natural Language Processing · Responsible AI
+- **Link**: https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/
+- **Description**: July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bi
+- **First seen**: 2026-07-23

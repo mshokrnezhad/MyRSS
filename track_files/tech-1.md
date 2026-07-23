@@ -224,3 +224,8 @@
 - **Link**: https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/
 - **Description**: Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories
 - **First seen**: 2026-07-22
+
+## NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework
+- **Link**: https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
+- **Description**: NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework
+- **First seen**: 2026-07-23

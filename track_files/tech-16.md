@@ -169,3 +169,8 @@
 - **Link**: https://blog.cloudflare.com/2026-world-cup-internet-traffic/
 - **Description**: How the 2026 World Cup affected Internet traffic
 - **First seen**: 2026-07-22
+
+## Introducing Cache Response Rules
+- **Link**: https://blog.cloudflare.com/introducing-cache-response-rules/
+- **Description**: Introducing Cache Response Rules
+- **First seen**: 2026-07-24

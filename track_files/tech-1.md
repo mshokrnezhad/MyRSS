@@ -229,3 +229,13 @@
 - **Link**: https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/
 - **Description**: NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework
 - **First seen**: 2026-07-23
+
+## NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School
+- **Link**: https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/
+- **Description**: NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School
+- **First seen**: 2026-07-24
+
+## GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/
+- **Description**: GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud
+- **First seen**: 2026-07-24

@@ -429,3 +429,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/towards-intellicise-agent-communication-networks-autonomous-integration-and-evolution-humans-and-networks
 - **Description**: IEEE CFP — Towards Intellicise Agent Communication Networks: Autonomous Integration and Evo
 - **First seen**: 2026-07-07
+
+## Distributed Intelligence and Collaborative Inference for Foundation Models over Wireless Edge
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/distributed-intelligence-and-collaborative-inference-foundation-models-over-wireless-edge
+- **Description**: IEEE CFP — Distributed Intelligence and Collaborative Inference for Foundation Models over 
+- **First seen**: 2026-07-25

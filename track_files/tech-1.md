@@ -239,3 +239,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/
 - **Description**: GeForce NOW Sets Sail With ‘Path of Exile: Curse of the Allflame’ Joining the Cloud
 - **First seen**: 2026-07-24
+
+## At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners
+- **Link**: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
+- **Description**: At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners
+- **First seen**: 2026-07-25

@@ -174,3 +174,8 @@
 - **Link**: https://blog.cloudflare.com/introducing-cache-response-rules/
 - **Description**: Introducing Cache Response Rules
 - **First seen**: 2026-07-24
+
+## BGP ORIGIN attribute manipulation and its impact on the Internet
+- **Link**: https://blog.cloudflare.com/bgp-origin-attribute/
+- **Description**: BGP ORIGIN attribute manipulation and its impact on the Internet
+- **First seen**: 2026-07-25

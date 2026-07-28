@@ -69,3 +69,8 @@
 - **Link**: https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report
 - **Description**: Content Ingestion & Podcast Video Incident Report
 - **First seen**: 2026-07-21
+
+## Indexing the Data Lake for Online Point Queries
+- **Link**: https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries
+- **Description**: Indexing the Data Lake for Online Point Queries
+- **First seen**: 2026-07-28

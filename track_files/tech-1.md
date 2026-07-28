@@ -244,3 +244,13 @@
 - **Link**: https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/
 - **Description**: At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners
 - **First seen**: 2026-07-25
+
+## Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security
+- **Link**: https://blogs.nvidia.com/blog/open-secure-ai-alliance/
+- **Description**: Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security
+- **First seen**: 2026-07-28
+
+## NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs
+- **Link**: https://blogs.nvidia.com/blog/vera-cpu-eda/
+- **Description**: NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs
+- **First seen**: 2026-07-28

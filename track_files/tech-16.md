@@ -179,3 +179,8 @@
 - **Link**: https://blog.cloudflare.com/bgp-origin-attribute/
 - **Description**: BGP ORIGIN attribute manipulation and its impact on the Internet
 - **First seen**: 2026-07-25
+
+## Weâre open-sourcing our privacy proxy CLI
+- **Link**: https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/
+- **Description**: Weâre open-sourcing our privacy proxy CLI
+- **First seen**: 2026-07-28

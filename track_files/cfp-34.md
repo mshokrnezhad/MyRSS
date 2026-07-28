@@ -39,3 +39,13 @@
 - **Link**: https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017
 - **Description**: How we built a storage system that ingests 50 million samples per second and stores 2.5...
 - **First seen**: 2026-07-05
+
+## Personalizing Airbnb search by learning from the guest journey
+- **Link**: https://medium.com/airbnb-engineering/personalizing-airbnb-search-by-learning-from-the-guest-journey-bcefd1915624
+- **Description**: How we built a Transformer-based sequence model that encodes years of guest behavior to surface the...
+- **First seen**: 2026-07-28
+
+## From weeks to a day: how we made LLM evaluation...
+- **Link**: https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d
+- **Description**: Training an LLM is the easy part. The hard part is designing experiments and evaluations that...
+- **First seen**: 2026-07-28

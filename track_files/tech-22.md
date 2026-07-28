@@ -163,3 +163,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/voyage-context-4-stop-worrying-about-chunking-with-our-best-performing-model
 - **Description**: voyage-context-4: Stop Worrying About Chunking With Our Best-Performing Model
 - **First seen**: 2026-07-17
+
+## How Greater China Organizations Power AI And Compliance At Scale Organizations across Greater China are heavily investing in data-driven technologies to deliver innovative digital services and experiences. According to Morgan Stanley Research, AI investments in China alone could deliver a 52% return on invested capital by 2030*. July 28, 2026
+- **Link**: https://www.mongodb.com/company/blog/innovation/how-greater-china-organizations-power-ai-compliance-at-scale
+- **Description**: Organizations across Greater China are heavily investing in data-driven technologies to deliver innovative digital services and experiences. According to Morgan
+- **First seen**: 2026-07-28

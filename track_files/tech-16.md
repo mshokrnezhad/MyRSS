@@ -184,3 +184,8 @@
 - **Link**: https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/
 - **Description**: Weâre open-sourcing our privacy proxy CLI
 - **First seen**: 2026-07-28
+
+## Natural disasters and government interference: examining Q2 2026âs major Internet disruption events
+- **Link**: https://blog.cloudflare.com/q2-2026-internet-disruption-summary/
+- **Description**: Natural disasters and government interference: examining Q2 2026âs major Internet disruption events
+- **First seen**: 2026-07-29

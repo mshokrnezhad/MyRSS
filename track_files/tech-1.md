@@ -254,3 +254,8 @@
 - **Link**: https://blogs.nvidia.com/blog/vera-cpu-eda/
 - **Description**: NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs
 - **First seen**: 2026-07-28
+
+## Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson
+- **Link**: https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
+- **Description**: Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson
+- **First seen**: 2026-07-29

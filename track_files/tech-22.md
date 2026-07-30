@@ -168,3 +168,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/innovation/how-greater-china-organizations-power-ai-compliance-at-scale
 - **Description**: Organizations across Greater China are heavily investing in data-driven technologies to deliver innovative digital services and experiences. According to Morgan
 - **First seen**: 2026-07-28
+
+## Atlas at 10 Years: Celebrating the Customers Behind the Platform Since I joined MongoDB in March, it’s become clear that people build on MongoDB because they trust it to power what matters most. July 29, 2026
+- **Link**: https://www.mongodb.com/company/blog/news/atlas-10-years-celebrating-customers-behind-platform
+- **Description**: Since I joined MongoDB in March, it’s become clear that people build on MongoDB because they trust it to power what matters most.
+- **First seen**: 2026-07-30

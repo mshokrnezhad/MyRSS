@@ -189,3 +189,8 @@
 - **Link**: https://blog.cloudflare.com/q2-2026-internet-disruption-summary/
 - **Description**: Natural disasters and government interference: examining Q2 2026âs major Internet disruption events
 - **First seen**: 2026-07-29
+
+## Post-quantum authentication to origins is now supported
+- **Link**: https://blog.cloudflare.com/post-quantum-authentication-to-origins/
+- **Description**: Post-quantum authentication to origins is now supported
+- **First seen**: 2026-07-30

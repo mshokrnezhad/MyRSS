@@ -194,3 +194,8 @@
 - **Link**: https://blog.cloudflare.com/post-quantum-authentication-to-origins/
 - **Description**: Post-quantum authentication to origins is now supported
 - **First seen**: 2026-07-30
+
+## Dogfooding at scale: migrating cdnjs to Cloudflareâs Developer Platform
+- **Link**: https://blog.cloudflare.com/cdnjs-dev-platform-migration/
+- **Description**: Dogfooding at scale: migrating cdnjs to Cloudflareâs Developer Platform
+- **First seen**: 2026-07-31

@@ -189,3 +189,8 @@
 - **Link**: https://stripe.com/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet
 - **Description**: 2026.7.16 How Stripe uses graph search and state machines to auto-remediate a global database fleet
 - **First seen**: 2026-07-17
+
+## 2026.7.30 Meet Stripe's Knowledge AI Platform
+- **Link**: https://stripe.com/blog/meet-stripes-knowledge-ai-platform
+- **Description**: 2026.7.30 Meet Stripe's Knowledge AI Platform
+- **First seen**: 2026-07-31

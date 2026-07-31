@@ -259,3 +259,8 @@
 - **Link**: https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/
 - **Description**: Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson
 - **First seen**: 2026-07-29
+
+## Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
+- **Description**: Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW
+- **First seen**: 2026-07-31

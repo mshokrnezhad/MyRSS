@@ -144,3 +144,8 @@
 - **Link**: https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/
 - **Description**: July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bi
 - **First seen**: 2026-07-23
+
+## July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · Machine Intelligence · Natural Language Processing
+- **Link**: https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/
+- **Description**: July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · 
+- **First seen**: 2026-07-31

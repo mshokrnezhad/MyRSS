@@ -129,3 +129,8 @@
 - **Link**: https://www.uber.com/us/en/blog/scaling-verify-wallet/
 - **Description**: Scaling Verify with Wallet for Identity Verification at Uber
 - **First seen**: 2026-07-10
+
+## Scaling Exact COUNT(DISTINCT) for High-Cardinality Non-Rollup Metrics in Distributed Data Pipelines
+- **Link**: https://www.uber.com/us/en/blog/scaling-exact-count/
+- **Description**: Scaling Exact COUNT(DISTINCT) for High-Cardinality Non-Rollup Metrics in Distributed Data Pipelines
+- **First seen**: 2026-07-31

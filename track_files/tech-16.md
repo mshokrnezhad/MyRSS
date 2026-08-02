@@ -199,3 +199,8 @@
 - **Link**: https://blog.cloudflare.com/cdnjs-dev-platform-migration/
 - **Description**: Dogfooding at scale: migrating cdnjs to Cloudflareâs Developer Platform
 - **First seen**: 2026-07-31
+
+## An API for MoQ: provision your own isolated relays
+- **Link**: https://blog.cloudflare.com/moq-relays/
+- **Description**: An API for MoQ: provision your own isolated relays
+- **First seen**: 2026-08-02

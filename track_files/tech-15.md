@@ -59,3 +59,8 @@
 - **Link**: https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/
 - **Description**: Finding leaked passwords with AI: How we built Copilot secret scanning
 - **First seen**: 2026-07-05
+
+## Don’t stop early: Case-folding source code at memory speed
+- **Link**: https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/
+- **Description**: Don’t stop early: Case-folding source code at memory speed
+- **First seen**: 2026-08-02

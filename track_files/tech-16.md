@@ -204,3 +204,8 @@
 - **Link**: https://blog.cloudflare.com/moq-relays/
 - **Description**: An API for MoQ: provision your own isolated relays
 - **First seen**: 2026-08-02
+
+## Welcome to Agents Week
+- **Link**: https://blog.cloudflare.com/agents-week-welcome/
+- **Description**: Welcome to Agents Week
+- **First seen**: 2026-08-03

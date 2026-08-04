@@ -184,3 +184,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/standards-major-internet
 - **Description**: IEEE CFP — Standards for Major Internet Disruptors: Blockchain, Intents, and Related Paradi
 - **First seen**: 2026-07-05
+
+## AI for Wireless
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/ai-wireless-0
+- **Description**: IEEE CFP — AI for Wireless
+- **First seen**: 2026-08-04

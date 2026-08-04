@@ -379,3 +379,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/wireless-information-forensics-and-security-6g-era-foundations-intelligence-and-emerging-applications
 - **Description**: IEEE CFP — Wireless Information Forensics and Security in the 6G Era: Foundations, Intellig
 - **First seen**: 2026-07-16
+
+## End-Edge-Cloud Computing Power Network for Large and Small AI Models
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/end-edge-cloud-computing-power-network-large-and-small-ai-models
+- **Description**: IEEE CFP — End-Edge-Cloud Computing Power Network for Large and Small AI Models
+- **First seen**: 2026-08-04

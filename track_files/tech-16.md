@@ -209,3 +209,28 @@
 - **Link**: https://blog.cloudflare.com/agents-week-welcome/
 - **Description**: Welcome to Agents Week
 - **First seen**: 2026-08-03
+
+## Your agent needs a computer, not a container â introducing @cloudflare/computer
+- **Link**: https://blog.cloudflare.com/cloudflare-computer/
+- **Description**: Your agent needs a computer, not a container â introducing @cloudflare/computer
+- **First seen**: 2026-08-04
+
+## Cloudflare Workers and Containers now support inbound TCP connections and gRPC
+- **Link**: https://blog.cloudflare.com/grpc-workers/
+- **Description**: Cloudflare Workers and Containers now support inbound TCP connections and gRPC
+- **First seen**: 2026-08-04
+
+## Introducing the Billable Usage API: programmatic cost visibility for Cloudflare
+- **Link**: https://blog.cloudflare.com/billable-usage-api/
+- **Description**: Introducing the Billable Usage API: programmatic cost visibility for Cloudflare
+- **First seen**: 2026-08-04
+
+## Smaller, faster, safer: running Kimi and GLM at scale
+- **Link**: https://blog.cloudflare.com/smaller-faster-safer-models/
+- **Description**: Smaller, faster, safer: running Kimi and GLM at scale
+- **First seen**: 2026-08-04
+
+## Workers RPC now works across Python and JavaScript
+- **Link**: https://blog.cloudflare.com/python-workers-rpc/
+- **Description**: Workers RPC now works across Python and JavaScript
+- **First seen**: 2026-08-04

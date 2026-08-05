@@ -264,3 +264,23 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/
 - **Description**: Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW
 - **First seen**: 2026-07-31
+
+## NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use
+- **Link**: https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/
+- **Description**: NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use
+- **First seen**: 2026-08-05
+
+## As AI Increases Demands on Memory, Storage Steps Up
+- **Link**: https://blogs.nvidia.com/blog/ai-storage-fms/
+- **Description**: As AI Increases Demands on Memory, Storage Steps Up
+- **First seen**: 2026-08-05
+
+## AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency
+- **Link**: https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/
+- **Description**: AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency
+- **First seen**: 2026-08-05
+
+## NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US
+- **Link**: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
+- **Description**: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US
+- **First seen**: 2026-08-05

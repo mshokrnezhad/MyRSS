@@ -234,3 +234,38 @@
 - **Link**: https://blog.cloudflare.com/python-workers-rpc/
 - **Description**: Workers RPC now works across Python and JavaScript
 - **First seen**: 2026-08-04
+
+## The Agent Development Lifecycle has arrived on Cloudflare
+- **Link**: https://blog.cloudflare.com/agent-development-lifecycle/
+- **Description**: The Agent Development Lifecycle has arrived on Cloudflare
+- **First seen**: 2026-08-05
+
+## Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet
+- **Link**: https://blog.cloudflare.com/wallets/
+- **Description**: Announcing Cloudflare Wallets: the programmable wallet for the agentic Internet
+- **First seen**: 2026-08-05
+
+## Run CI/CD for millions of repos â on your platform, on Cloudflare
+- **Link**: https://blog.cloudflare.com/ci-workflows/
+- **Description**: Run CI/CD for millions of repos â on your platform, on Cloudflare
+- **First seen**: 2026-08-05
+
+## How Cloudflare enforces engineering standards using AI
+- **Link**: https://blog.cloudflare.com/engineering-standards-enforcement/
+- **Description**: How Cloudflare enforces engineering standards using AI
+- **First seen**: 2026-08-05
+
+## Introducing: Cloudflare Agents
+- **Link**: https://blog.cloudflare.com/agents-on-cloudflare/
+- **Description**: Introducing: Cloudflare Agents
+- **First seen**: 2026-08-05
+
+## Your agent can now debug Workers with local tracing
+- **Link**: https://blog.cloudflare.com/local-tracing/
+- **Description**: Your agent can now debug Workers with local tracing
+- **First seen**: 2026-08-05
+
+## How we built a software factory to drive Astroâs GitHub issue count to zero
+- **Link**: https://blog.cloudflare.com/astro-issue-triage/
+- **Description**: How we built a software factory to drive Astroâs GitHub issue count to zero
+- **First seen**: 2026-08-05

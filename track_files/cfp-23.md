@@ -434,3 +434,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/distributed-intelligence-and-collaborative-inference-foundation-models-over-wireless-edge
 - **Description**: IEEE CFP — Distributed Intelligence and Collaborative Inference for Foundation Models over 
 - **First seen**: 2026-07-25
+
+## Accelerating Large Multimodal Models Learning and Inference on Resource-Constrained Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/accelerating-large-multimodal-models-learning-and-inference-resource-constrained-networks
+- **Description**: IEEE CFP — Accelerating Large Multimodal Models Learning and Inference on Resource-Constrai
+- **First seen**: 2026-08-05

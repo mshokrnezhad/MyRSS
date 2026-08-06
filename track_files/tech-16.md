@@ -269,3 +269,33 @@
 - **Link**: https://blog.cloudflare.com/astro-issue-triage/
 - **Description**: How we built a software factory to drive Astroâs GitHub issue count to zero
 - **First seen**: 2026-08-05
+
+## Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports
+- **Link**: https://blog.cloudflare.com/cloudflare-sase-sse-gartner-magic-quadrants-2026/
+- **Description**: Cloudflare is the only vendor named a Visionary in 2026 SASE and SSE reports
+- **First seen**: 2026-08-06
+
+## The Agent Access Model
+- **Link**: https://blog.cloudflare.com/the-agent-access-model/
+- **Description**: The Agent Access Model
+- **First seen**: 2026-08-06
+
+## How weâre rethinking work at Cloudflare with Cloudflare OS
+- **Link**: https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os/
+- **Description**: How weâre rethinking work at Cloudflare with Cloudflare OS
+- **First seen**: 2026-08-06
+
+## Cloudflare OS: an open platform for agents, apps, and work
+- **Link**: https://blog.cloudflare.com/cloudflare-os/
+- **Description**: Cloudflare OS: an open platform for agents, apps, and work
+- **First seen**: 2026-08-06
+
+## WriteGuard: fine-grained controls for MCP Servers
+- **Link**: https://blog.cloudflare.com/mcp-portal-writeguard-private-beta/
+- **Description**: WriteGuard: fine-grained controls for MCP Servers
+- **First seen**: 2026-08-06
+
+## Catching rogue AI behavior with identity-aware analytics
+- **Link**: https://blog.cloudflare.com/identity-aware-ai-gateway/
+- **Description**: Catching rogue AI behavior with identity-aware analytics
+- **First seen**: 2026-08-06

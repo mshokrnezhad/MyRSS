@@ -124,3 +124,8 @@
 - **Link**: https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture
 - **Description**: Engineering & Developers How Discord Seamlessly Upgraded Millions of Users to 64-Bit Architecture
 - **First seen**: 2026-07-05
+
+## Engineering & Developers General Availability of Mobile Platform Support Arrives in Discord Social SDK Version 1.10 Mobile support is now generally available in the Discord Social SDK, allowing developers to extend Discord's social experiences to iOS and Android.
+- **Link**: https://discord.com/blog/mobile-platform-support-arrives-in-discord-social-sdk
+- **Description**: Mobile support is now generally available in the Discord Social SDK, allowing developers to extend Discord's social experiences to iOS and Android.
+- **First seen**: 2026-08-08

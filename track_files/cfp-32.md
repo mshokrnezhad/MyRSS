@@ -274,3 +274,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/intelligent-pattern-recognition-iot-sensing-edge-cloud-collaborative-intelligence
 - **Description**: IEEE CFP — Intelligent Pattern Recognition in IoT: From Sensing to Edge–Cloud Collaborative
 - **First seen**: 2026-07-22
+
+## Decentralized Identity and Digital Trust for Scalable IoT Systems in the 6G Era
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/decentralized-identity-and-digital-trust-scalable-iot-systems-6g-era
+- **Description**: IEEE CFP — Decentralized Identity and Digital Trust for Scalable IoT Systems in the 6G Era
+- **First seen**: 2026-08-08

@@ -299,3 +299,53 @@
 - **Link**: https://blog.cloudflare.com/identity-aware-ai-gateway/
 - **Description**: Catching rogue AI behavior with identity-aware analytics
 - **First seen**: 2026-08-06
+
+## Unveiling good and bad behaviors on the Agentic Internet
+- **Link**: https://blog.cloudflare.com/good-and-bad-agentic-behaviors/
+- **Description**: Unveiling good and bad behaviors on the Agentic Internet
+- **First seen**: 2026-08-08
+
+## Introducing Radar Researcher: An AI tool for exploring Internet data in plain language
+- **Link**: https://blog.cloudflare.com/introducing-radar-researcher/
+- **Description**: Introducing Radar Researcher: An AI tool for exploring Internet data in plain language
+- **First seen**: 2026-08-08
+
+## Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding
+- **Link**: https://blog.cloudflare.com/community-program-refresh/
+- **Description**: Announcing Cloudflare Ambassadors, Community Engineers, and another $1M in open-source funding
+- **First seen**: 2026-08-08
+
+## Unifying Workers AI and AI Gateway into a single AI control plane
+- **Link**: https://blog.cloudflare.com/workers-ai-gateway-unification/
+- **Description**: Unifying Workers AI and AI Gateway into a single AI control plane
+- **First seen**: 2026-08-08
+
+## Cloudflare AI Search: give your agents a search engine for your data
+- **Link**: https://blog.cloudflare.com/ai-search-easier/
+- **Description**: Cloudflare AI Search: give your agents a search engine for your data
+- **First seen**: 2026-08-08
+
+## The next generation of MCP
+- **Link**: https://blog.cloudflare.com/mcp-v2/
+- **Description**: The next generation of MCP
+- **First seen**: 2026-08-08
+
+## From ranking to recommended: get your site ready to thrive in the age of AI agents
+- **Link**: https://blog.cloudflare.com/aeo/
+- **Description**: From ranking to recommended: get your site ready to thrive in the age of AI agents
+- **First seen**: 2026-08-08
+
+## Building an open Agentic Internet: readable, discoverable, callable, and payable
+- **Link**: https://blog.cloudflare.com/the-agentic-internet/
+- **Description**: Building an open Agentic Internet: readable, discoverable, callable, and payable
+- **First seen**: 2026-08-08
+
+## Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers
+- **Link**: https://blog.cloudflare.com/kitesurf/
+- **Description**: Introducing Kitesurf: The agent-first browser that runs in V8 isolates on Cloudflare Workers
+- **First seen**: 2026-08-08
+
+## Give any website a WebMCP interface
+- **Link**: https://blog.cloudflare.com/webmcp/
+- **Description**: Give any website a WebMCP interface
+- **First seen**: 2026-08-08

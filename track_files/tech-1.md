@@ -284,3 +284,13 @@
 - **Link**: https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/
 - **Description**: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US
 - **First seen**: 2026-08-05
+
+## GeForce NOW Shakes Up August With 26 New Games
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/
+- **Description**: GeForce NOW Shakes Up August With 26 New Games
+- **First seen**: 2026-08-08
+
+## Into the Omniverse: How Open World Models Push the Frontier of Physical AI
+- **Link**: https://blogs.nvidia.com/blog/open-world-models-physical-ai/
+- **Description**: Into the Omniverse: How Open World Models Push the Frontier of Physical AI
+- **First seen**: 2026-08-08

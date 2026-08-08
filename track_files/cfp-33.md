@@ -354,3 +354,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/next-generation-underwater-acoustic-communication-systems
 - **Description**: IEEE CFP — Next-Generation Underwater Acoustic Communication Systems
 - **First seen**: 2026-07-16
+
+## Advanced Waveforms Embracing Channel Dynamics for Future Wireless Systems
+- **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/advanced-waveforms-embracing-channel-dynamics-future-wireless-systems
+- **Description**: IEEE CFP — Advanced Waveforms Embracing Channel Dynamics for Future Wireless Systems
+- **First seen**: 2026-08-08

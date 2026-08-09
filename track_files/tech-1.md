@@ -294,3 +294,8 @@
 - **Link**: https://blogs.nvidia.com/blog/open-world-models-physical-ai/
 - **Description**: Into the Omniverse: How Open World Models Push the Frontier of Physical AI
 - **First seen**: 2026-08-08
+
+## Firebird Launches CIS Region’s Largest AI Factory in Armenia
+- **Link**: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
+- **Description**: Firebird Launches CIS Region’s Largest AI Factory in Armenia
+- **First seen**: 2026-08-09

@@ -349,3 +349,13 @@
 - **Link**: https://blog.cloudflare.com/webmcp/
 - **Description**: Give any website a WebMCP interface
 - **First seen**: 2026-08-08
+
+## Everything we launched during Agents Week
+- **Link**: https://blog.cloudflare.com/agents-week-review-august-2026/
+- **Description**: Everything we launched during Agents Week
+- **First seen**: 2026-08-11
+
+## Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status
+- **Link**: https://blog.cloudflare.com/fedramp-class-d-certification/
+- **Description**: Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status
+- **First seen**: 2026-08-11

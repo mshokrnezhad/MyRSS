@@ -134,3 +134,8 @@
 - **Link**: https://www.uber.com/us/en/blog/scaling-exact-count/
 - **Description**: Scaling Exact COUNT(DISTINCT) for High-Cardinality Non-Rollup Metrics in Distributed Data Pipelines
 - **First seen**: 2026-07-31
+
+## Zero-Sum by Design: 10 Years of Uber’s Payments Platform
+- **Link**: https://www.uber.com/us/en/blog/ubers-payments-platform/
+- **Description**: Zero-Sum by Design: 10 Years of Uber’s Payments Platform
+- **First seen**: 2026-08-11

@@ -149,3 +149,8 @@
 - **Link**: https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/
 - **Description**: July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · 
 - **First seen**: 2026-07-31
+
+## August 11, 2026 Advancing AMIE towards expert-level audio-visual clinical consultations Health & Bioscience · Machine Intelligence
+- **Link**: https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/
+- **Description**: August 11, 2026 Advancing AMIE towards expert-level audio-visual clinical consultations Health & Bioscience · Machine In
+- **First seen**: 2026-08-12

@@ -359,3 +359,8 @@
 - **Link**: https://blog.cloudflare.com/fedramp-class-d-certification/
 - **Description**: Serving the most critical missions: Cloudflare for Government achieves FedRAMP Class D (High) Certified status
 - **First seen**: 2026-08-11
+
+## Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave
+- **Link**: https://blog.cloudflare.com/ddos-threat-report-2026-h1/
+- **Description**: Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave
+- **First seen**: 2026-08-12

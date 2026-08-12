@@ -299,3 +299,23 @@
 - **Link**: https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/
 - **Description**: Firebird Launches CIS Region’s Largest AI Factory in Armenia
 - **First seen**: 2026-08-09
+
+## NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI
+- **Link**: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/
+- **Description**: NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI
+- **First seen**: 2026-08-12
+
+## NVIDIA AI Factory Compute Is Becoming an Investable Asset Class
+- **Link**: https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/
+- **Description**: NVIDIA AI Factory Compute Is Becoming an Investable Asset Class
+- **First seen**: 2026-08-12
+
+## NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents
+- **Link**: https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/
+- **Description**: NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents
+- **First seen**: 2026-08-12
+
+## Why Scaling AI Compute Performance Requires a New Power Architecture
+- **Link**: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
+- **Description**: Why Scaling AI Compute Performance Requires a New Power Architecture
+- **First seen**: 2026-08-12

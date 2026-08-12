@@ -54,3 +54,8 @@
 - **Link**: https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788
 - **Description**: How Airbnb teams build trustworthy Generative AI products by treating evaluation as a first-class engineering discipline;...
 - **First seen**: 2026-07-31
+
+## Recent Articles
+- **Link**: https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4
+- **Description**: Training an LLM is the easy part. The hard part is designing experiments and evaluations that...
+- **First seen**: 2026-08-12

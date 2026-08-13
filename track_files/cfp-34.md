@@ -59,3 +59,8 @@
 - **Link**: https://medium.com/airbnb-engineering/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on-14e2d35198b4
 - **Description**: Training an LLM is the easy part. The hard part is designing experiments and evaluations that...
 - **First seen**: 2026-08-12
+
+## Flexible Authentication: Reimagining authentication for millions of users at Airbnb
+- **Link**: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137
+- **Description**: Rebuilding login and signup surfaced product insights, not just technical challenges. Here’s how we designed Flexible...
+- **First seen**: 2026-08-13

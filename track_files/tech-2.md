@@ -154,3 +154,8 @@
 - **Link**: https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/
 - **Description**: August 11, 2026 Advancing AMIE towards expert-level audio-visual clinical consultations Health & Bioscience · Machine In
 - **First seen**: 2026-08-12
+
+## August 12, 2026 Empty shelves or lost keys? Recall is the bottleneck for parametric factuality Generative AI · Natural Language Processing
+- **Link**: https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/
+- **Description**: August 12, 2026 Empty shelves or lost keys? Recall is the bottleneck for parametric factuality Generative AI · Natural L
+- **First seen**: 2026-08-13

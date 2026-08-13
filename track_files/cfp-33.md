@@ -359,3 +359,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/advanced-waveforms-embracing-channel-dynamics-future-wireless-systems
 - **Description**: IEEE CFP — Advanced Waveforms Embracing Channel Dynamics for Future Wireless Systems
 - **First seen**: 2026-08-08
+
+## Digital Twins for Wireless Networks: Enabling Application-Aware and Closed-Loop Optimization
+- **Link**: https://www.comsoc.org/publications/journals/ieee-jsac/cfp/digital-twins-wireless-networks-enabling-application-aware-and-closed-loop-optimization
+- **Description**: IEEE CFP — Digital Twins for Wireless Networks: Enabling Application-Aware and Closed-Loop 
+- **First seen**: 2026-08-13

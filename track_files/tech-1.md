@@ -319,3 +319,8 @@
 - **Link**: https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/
 - **Description**: Why Scaling AI Compute Performance Requires a New Power Architecture
 - **First seen**: 2026-08-12
+
+## Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/
+- **Description**: Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More
+- **First seen**: 2026-08-14

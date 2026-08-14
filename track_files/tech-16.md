@@ -364,3 +364,13 @@
 - **Link**: https://blog.cloudflare.com/ddos-threat-report-2026-h1/
 - **Description**: Cloudflare DDoS Threat Report H1 2026: 1 Tbps attacks soar as DNS floods and geopolitical tensions drive a new wave
 - **First seen**: 2026-08-12
+
+## Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal
+- **Link**: https://blog.cloudflare.com/total-eclipse-internet-traffic-iceland-spain-portugal/
+- **Description**: Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal
+- **First seen**: 2026-08-14
+
+## Certificate Transparency Monitoring is now generally available
+- **Link**: https://blog.cloudflare.com/certificate-transparency-monitoring-ga/
+- **Description**: Certificate Transparency Monitoring is now generally available
+- **First seen**: 2026-08-14

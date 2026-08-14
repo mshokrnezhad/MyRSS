@@ -74,3 +74,8 @@
 - **Link**: https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries
 - **Description**: Indexing the Data Lake for Online Point Queries
 - **First seen**: 2026-07-28
+
+## When Can LLMs Replace Humans in A/B Tests?
+- **Link**: https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests
+- **Description**: When Can LLMs Replace Humans in A/B Tests?
+- **First seen**: 2026-08-14

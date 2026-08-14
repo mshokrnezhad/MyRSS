@@ -173,3 +173,13 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/news/atlas-10-years-celebrating-customers-behind-platform
 - **Description**: Since I joined MongoDB in March, it’s become clear that people build on MongoDB because they trust it to power what matters most.
 - **First seen**: 2026-07-30
+
+## Closing the Gap Between Agentic Promise and Impact with Industry Leading Retrieval A recent McKinsey report* noted that AI agents and robots “could generate about $2.9 trillion in US economic value per year,” while another study from WRITER** quantified the speed at which organizations have moved toward agents: 97% of C-suite executives surveyed indicate their companies have deployed AI agents, and 75% expect agents to become members of the C-suite in the next five years. August 13, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/closing-gap-between-agentic-promise-impact-industry-leading-retrieval
+- **Description**: A recent McKinsey report* noted that AI agents and robots “could generate about $2.9 trillion in US economic value per year,” while another study from WRITER** 
+- **First seen**: 2026-08-14
+
+## MongoDB for the Agentic Era: Built for Developers and AI Agents How developers work has dramatically changed. Anthropic's 2026 Agentic Coding Trends Report* found that developers now use AI in roughly 60% of their engineering work. Coding agents are no longer just executing decisions; they're helping make them. If you’re building software today, it has to work for both humans and the agents working alongside them. August 13, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/mongodb-for-agentic-era-built-for-developers-ai-agents
+- **Description**: How developers work has dramatically changed. Anthropic's 2026 Agentic Coding Trends Report* found that developers now use AI in roughly 60% of their engineerin
+- **First seen**: 2026-08-14

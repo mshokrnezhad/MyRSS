@@ -139,3 +139,8 @@
 - **Link**: https://www.uber.com/us/en/blog/ubers-payments-platform/
 - **Description**: Zero-Sum by Design: 10 Years of Uber’s Payments Platform
 - **First seen**: 2026-08-11
+
+## Running Cost-Efficient Export Workloads at Uber
+- **Link**: https://www.uber.com/us/en/blog/running-cost-efficient-export/
+- **Description**: Running Cost-Efficient Export Workloads at Uber
+- **First seen**: 2026-08-14

@@ -183,3 +183,18 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/mongodb-for-agentic-era-built-for-developers-ai-agents
 - **Description**: How developers work has dramatically changed. Anthropic's 2026 Agentic Coding Trends Report* found that developers now use AI in roughly 60% of their engineerin
 - **First seen**: 2026-08-14
+
+## Introducing a More Connected, Flexible Path to MongoDB Certifications Learning something new feels better when you can see your progress. August 18, 2026
+- **Link**: https://www.mongodb.com/company/blog/news/introducing-a-more-connected-flexible-path-to-certifications
+- **Description**: Learning something new feels better when you can see your progress.
+- **First seen**: 2026-08-19
+
+## Leading Indian Organizations Are Driving India’s AI Future With MongoDB Millions of Indians now use AI on a daily basis. It’s been said before, but the technology’s possibilities are incredible, whether you’re using AI to build an app with just a few sentences, or whether a virtual assistant is not only answering your questions but actually anticipating your needs. August 18, 2026
+- **Link**: https://www.mongodb.com/company/blog/innovation/leading-indian-organizations-are-driving-indias-ai-future
+- **Description**: Millions of Indians now use AI on a daily basis. It’s been said before, but the technology’s possibilities are incredible, whether you’re using AI to build an a
+- **First seen**: 2026-08-19
+
+## Close the Database Blind Spot with MongoDB Atlas Observability Modern applications generate more telemetry than ever before, yet one of the most critical systems in production often remains disconnected from the rest of the observability stack: the database. When incidents occur, operators shouldn’t have to jump between dashboards, stitch together signals from disconnected systems, or rely on brittle integrations just to understand what’s happening. Database telemetry should be part of the same operational picture as application and infrastructure telemetry. August 14, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/close-database-blind-spot-with-atlas-observability
+- **Description**: Modern applications generate more telemetry than ever before, yet one of the most critical systems in production often remains disconnected from the rest of the
+- **First seen**: 2026-08-19

@@ -324,3 +324,13 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/
 - **Description**: Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More
 - **First seen**: 2026-08-14
+
+## Securing the Infrastructure of Intelligence
+- **Link**: https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/
+- **Description**: Securing the Infrastructure of Intelligence
+- **First seen**: 2026-08-19
+
+## Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent
+- **Link**: https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/
+- **Description**: Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent
+- **First seen**: 2026-08-19

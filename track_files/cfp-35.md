@@ -219,3 +219,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-tnse/cfp/artificial-intelligence-social-networks
 - **Description**: IEEE CFP — Artificial Intelligence for Social Networks
 - **First seen**: 2026-07-05
+
+## AI-Driven Low-Altitude Intelligent Networks: From Modeling to  Real-World Deployment
+- **Link**: https://www.comsoc.org/publications/journals/ieee-tnse/cfp/ai-driven-low-altitude-intelligent-networks-modeling-real-world-deployment
+- **Description**: IEEE CFP — AI-Driven Low-Altitude Intelligent Networks: From Modeling to  Real-World Deploy
+- **First seen**: 2026-08-19

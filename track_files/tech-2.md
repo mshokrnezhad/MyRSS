@@ -159,3 +159,8 @@
 - **Link**: https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/
 - **Description**: August 12, 2026 Empty shelves or lost keys? Recall is the bottleneck for parametric factuality Generative AI · Natural L
 - **First seen**: 2026-08-13
+
+## August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science · Health & Bioscience · Machine Intelligence
+- **Link**: https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/
+- **Description**: August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science · Health & Bi
+- **First seen**: 2026-08-19

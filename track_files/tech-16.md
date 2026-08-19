@@ -374,3 +374,18 @@
 - **Link**: https://blog.cloudflare.com/certificate-transparency-monitoring-ga/
 - **Description**: Certificate Transparency Monitoring is now generally available
 - **First seen**: 2026-08-14
+
+## BGP Role model: tracking the adoption of RFC 9234
+- **Link**: https://blog.cloudflare.com/rfc9234-bgp-role-model/
+- **Description**: BGP Role model: tracking the adoption of RFC 9234
+- **First seen**: 2026-08-19
+
+## How Cloudflare detects MCP traffic and helps secure it
+- **Link**: https://blog.cloudflare.com/mcp-security-updates/
+- **Description**: How Cloudflare detects MCP traffic and helps secure it
+- **First seen**: 2026-08-19
+
+## Secure all your internal vibe-coded applications â in one click
+- **Link**: https://blog.cloudflare.com/workers-protected-by-access/
+- **Description**: Secure all your internal vibe-coded applications â in one click
+- **First seen**: 2026-08-19

@@ -389,3 +389,8 @@
 - **Link**: https://blog.cloudflare.com/workers-protected-by-access/
 - **Description**: Secure all your internal vibe-coded applications â in one click
 - **First seen**: 2026-08-19
+
+## A revisit of remote Spectre attacks on Cloudflare Workers
+- **Link**: https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/
+- **Description**: A revisit of remote Spectre attacks on Cloudflare Workers
+- **First seen**: 2026-08-20

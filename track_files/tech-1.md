@@ -334,3 +334,8 @@
 - **Link**: https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/
 - **Description**: Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent
 - **First seen**: 2026-08-19
+
+## Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/
+- **Description**: Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support
+- **First seen**: 2026-08-21

@@ -64,3 +64,8 @@
 - **Link**: https://medium.com/airbnb-engineering/flexible-authentication-reimagining-authentication-for-millions-of-users-at-airbnb-3a8a4c917137
 - **Description**: Rebuilding login and signup surfaced product insights, not just technical challenges. Here’s how we designed Flexible...
 - **First seen**: 2026-08-13
+
+## How we knew COVID was over (and what our models...
+- **Link**: https://medium.com/airbnb-engineering/how-we-knew-covid-was-over-and-what-our-models-had-to-unlearn-c606b9bdb0ab
+- **Description**: When we retrain, when we rebuild, and when we leave a model alone.
+- **First seen**: 2026-08-21

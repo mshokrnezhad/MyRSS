@@ -394,3 +394,8 @@
 - **Link**: https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/
 - **Description**: A revisit of remote Spectre attacks on Cloudflare Workers
 - **First seen**: 2026-08-20
+
+## From all-or-nothing to task-based OAuth consent
+- **Link**: https://blog.cloudflare.com/task-based-oauth-consent/
+- **Description**: From all-or-nothing to task-based OAuth consent
+- **First seen**: 2026-08-21

@@ -189,3 +189,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/ai-wireless-0
 - **Description**: IEEE CFP — AI for Wireless
 - **First seen**: 2026-08-04
+
+## Collaborative Intelligence in Agentic Non-Terrestrial Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/collaborative-intelligence-agentic-non-terrestrial-networks
+- **Description**: IEEE CFP — Collaborative Intelligence in Agentic Non-Terrestrial Networks
+- **First seen**: 2026-08-22

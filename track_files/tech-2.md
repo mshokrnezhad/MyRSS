@@ -164,3 +164,8 @@
 - **Link**: https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/
 - **Description**: August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science · Health & Bi
 - **First seen**: 2026-08-19
+
+## August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI · Health & Bioscience
+- **Link**: https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/
+- **Description**: August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI · Health & Bios
+- **First seen**: 2026-08-22

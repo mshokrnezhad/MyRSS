@@ -399,3 +399,8 @@
 - **Link**: https://blog.cloudflare.com/task-based-oauth-consent/
 - **Description**: From all-or-nothing to task-based OAuth consent
 - **First seen**: 2026-08-21
+
+## Say it once: introducing Bot Preference SynC
+- **Link**: https://blog.cloudflare.com/bot-preference-sync/
+- **Description**: Say it once: introducing Bot Preference SynC
+- **First seen**: 2026-08-22

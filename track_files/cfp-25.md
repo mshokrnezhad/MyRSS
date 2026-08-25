@@ -29,3 +29,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-lnet/cfp/networking-enablers-6g-use-cases
 - **Description**: IEEE CFP — Networking Enablers for 6G Use Cases
 - **First seen**: 2026-07-05
+
+## Security and Privacy in Emerging Communication Technologies: The Generative AI Era
+- **Link**: https://www.comsoc.org/publications/journals/ieee-lnet/cfp/security-and-privacy-emerging-communication-technologies-generative-ai-era
+- **Description**: IEEE CFP — Security and Privacy in Emerging Communication Technologies: The Generative AI E
+- **First seen**: 2026-08-25

@@ -339,3 +339,18 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/
 - **Description**: Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support
 - **First seen**: 2026-08-21
+
+## Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents
+- **Link**: https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/
+- **Description**: Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents
+- **First seen**: 2026-08-25
+
+## With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents
+- **Link**: https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/
+- **Description**: With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents
+- **First seen**: 2026-08-25
+
+## How XPUs Meet a World-Class AI Factory
+- **Link**: https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/
+- **Description**: How XPUs Meet a World-Class AI Factory
+- **First seen**: 2026-08-25

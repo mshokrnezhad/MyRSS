@@ -239,3 +239,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/advanced-wireless-communication-technologies-satellite-terrestrial-integrated-networks
 - **Description**: IEEE CFP — Advanced Wireless Communication Technologies for Satellite-Terrestrial Integrate
 - **First seen**: 2026-07-10
+
+## Orchestrating Computing, Communication, and Agentic AI for Human-Centric Wireless Systems
+- **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/orchestrating-computing-communication-and-agentic-ai-human-centric-wireless-systems
+- **Description**: IEEE CFP — Orchestrating Computing, Communication, and Agentic AI for Human-Centric Wireles
+- **First seen**: 2026-08-25

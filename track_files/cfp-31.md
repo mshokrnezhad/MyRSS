@@ -384,3 +384,13 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/end-edge-cloud-computing-power-network-large-and-small-ai-models
 - **Description**: IEEE CFP — End-Edge-Cloud Computing Power Network for Large and Small AI Models
 - **First seen**: 2026-08-04
+
+## Wireless Endogenous Security for AI-Native Next-Generation Wireless Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/wireless-endogenous-security-ai-native-next-generation-wireless-networks
+- **Description**: IEEE CFP — Wireless Endogenous Security for AI-Native Next-Generation Wireless Networks
+- **First seen**: 2026-08-25
+
+## Agentic AI-Enabled Networking for Heterogeneous Unmanned Systems in Low-Altitude Environments
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/agentic-ai-enabled-networking-heterogeneous-unmanned-systems-low-altitude-environments
+- **Description**: IEEE CFP — Agentic AI-Enabled Networking for Heterogeneous Unmanned Systems in Low-Altitude
+- **First seen**: 2026-08-25

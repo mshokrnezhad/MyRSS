@@ -194,3 +194,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/collaborative-intelligence-agentic-non-terrestrial-networks
 - **Description**: IEEE CFP — Collaborative Intelligence in Agentic Non-Terrestrial Networks
 - **First seen**: 2026-08-22
+
+## Semantic Communication, Near Field Communication, and Integrated Sensing and Communication: The Three Musketeers of Integrated Terrestrial and Non-Terrestrial Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/semantic-communication-near-field-communication-and-integrated-sensing-and-communication-three-musketeers-integrated-terrestrial-and
+- **Description**: IEEE CFP — Semantic Communication, Near Field Communication, and Integrated Sensing and Com
+- **First seen**: 2026-08-25

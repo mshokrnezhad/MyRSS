@@ -198,3 +198,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/close-database-blind-spot-with-atlas-observability
 - **Description**: Modern applications generate more telemetry than ever before, yet one of the most critical systems in production often remains disconnected from the rest of the
 - **First seen**: 2026-08-19
+
+## How Indian Organizations in Regulated Industries Are Scaling with MongoDB Scaling while ensuring regulatory compliance is a major challenge that many Indian organizations today face, particularly when operating in industries like financial services, retail, education, and aviation. August 24, 2026
+- **Link**: https://www.mongodb.com/company/blog/innovation/how-indian-organizations-regulated-industries-are-scaling
+- **Description**: Scaling while ensuring regulatory compliance is a major challenge that many Indian organizations today face, particularly when operating in industries like fina
+- **First seen**: 2026-08-25

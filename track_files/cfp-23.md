@@ -444,3 +444,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/connected-and-collaborative-iot-edge-cloud-continuum-6g-networks
 - **Description**: IEEE CFP — Connected and Collaborative IoT – Edge – Cloud Continuum for 6G Networks
 - **First seen**: 2026-08-08
+
+## High-Reliability and Low-Latency Communications for 6G Network: ISAC-Enabled Architectures, Networking, and Services
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-network/cfp/high-reliability-and-low-latency-communications-6g-network-isac-enabled-architectures-networking-and-services
+- **Description**: IEEE CFP — High-Reliability and Low-Latency Communications for 6G Network: ISAC-Enabled Arc
+- **First seen**: 2026-08-25

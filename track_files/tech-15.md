@@ -64,3 +64,8 @@
 - **Link**: https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/
 - **Description**: Don’t stop early: Case-folding source code at memory speed
 - **First seen**: 2026-08-02
+
+## Your alt text passes automated checks. That doesn’t mean it’s any good.
+- **Link**: https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/
+- **Description**: Your alt text passes automated checks. That doesn’t mean it’s any good.
+- **First seen**: 2026-08-25

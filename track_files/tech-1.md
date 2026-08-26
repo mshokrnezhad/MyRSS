@@ -354,3 +354,8 @@
 - **Link**: https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/
 - **Description**: How XPUs Meet a World-Class AI Factory
 - **First seen**: 2026-08-25
+
+## Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark
+- **Link**: https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/
+- **Description**: Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark
+- **First seen**: 2026-08-26

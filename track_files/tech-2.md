@@ -169,3 +169,8 @@
 - **Link**: https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/
 - **Description**: August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI · Health & Bios
 - **First seen**: 2026-08-22
+
+## August 25, 2026 AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR Human-Computer Interaction and Visualization · Machine Intelligence
+- **Link**: https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/
+- **Description**: August 25, 2026 AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR Human-
+- **First seen**: 2026-08-26

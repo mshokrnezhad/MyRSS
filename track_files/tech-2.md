@@ -174,3 +174,8 @@
 - **Link**: https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/
 - **Description**: August 25, 2026 AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR Human-
 - **First seen**: 2026-08-26
+
+## August 26, 2026 GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience · Machine Intelligence
+- **Link**: https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/
+- **Description**: August 26, 2026 GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience · Machine Intelligence
+- **First seen**: 2026-08-27

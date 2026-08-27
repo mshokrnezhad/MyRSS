@@ -203,3 +203,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/innovation/how-indian-organizations-regulated-industries-are-scaling
 - **Description**: Scaling while ensuring regulatory compliance is a major challenge that many Indian organizations today face, particularly when operating in industries like fina
 - **First seen**: 2026-08-25
+
+## Introducing Atlas App Connections: Secure, One-Click Access for AI Tools For builders using AI coding tools, speed is everything. Integrations that require generating a credential, filing an access request, or waiting on a custom build can stop momentum (and productivity) in its tracks. August 26, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcementsintroducing-atlas-app-connections-secure-one-click-access-for-ai-tools
+- **Description**: For builders using AI coding tools, speed is everything. Integrations that require generating a credential, filing an access request, or waiting on a custom bui
+- **First seen**: 2026-08-27

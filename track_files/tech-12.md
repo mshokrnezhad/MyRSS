@@ -194,3 +194,8 @@
 - **Link**: https://stripe.com/blog/meet-stripes-knowledge-ai-platform
 - **Description**: 2026.7.30 Meet Stripe's Knowledge AI Platform
 - **First seen**: 2026-07-31
+
+## 2026.8.26 Building a data plane from scratch: Stripe’s own high-performance distributed proxy
+- **Link**: https://stripe.com/blog/building-a-data-plane-from-scratch-stripes-own-high-performance-distributed-proxy
+- **Description**: 2026.8.26 Building a data plane from scratch: Stripe’s own high-performance distributed proxy
+- **First seen**: 2026-08-27

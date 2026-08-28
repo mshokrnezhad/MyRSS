@@ -179,3 +179,8 @@
 - **Link**: https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/
 - **Description**: August 26, 2026 GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience · Machine Intelligence
 - **First seen**: 2026-08-27
+
+## August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine Intelligence
+- **Link**: https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
+- **Description**: August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine In
+- **First seen**: 2026-08-28

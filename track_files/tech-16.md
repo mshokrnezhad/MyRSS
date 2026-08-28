@@ -409,3 +409,8 @@
 - **Link**: https://blog.cloudflare.com/cloudflare-blog-uses-emdash/
 - **Description**: The Cloudflare Blog â Brought to you by EmDash
 - **First seen**: 2026-08-25
+
+## How we saved 100 terabytes of memory by optimizing 1.1.1.1âs DNS cache
+- **Link**: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
+- **Description**: How we saved 100 terabytes of memory by optimizing 1.1.1.1âs DNS cache
+- **First seen**: 2026-08-28

@@ -359,3 +359,18 @@
 - **Link**: https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/
 - **Description**: Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark
 - **First seen**: 2026-08-26
+
+## Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now
+- **Link**: https://blogs.nvidia.com/blog/vera-cpu-delivery/
+- **Description**: Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now
+- **First seen**: 2026-08-28
+
+## NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory
+- **Link**: https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/
+- **Description**: NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory
+- **First seen**: 2026-08-28
+
+## GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/
+- **Description**: GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026
+- **First seen**: 2026-08-28

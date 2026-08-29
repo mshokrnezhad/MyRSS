@@ -144,3 +144,8 @@
 - **Link**: https://www.uber.com/us/en/blog/running-cost-efficient-export/
 - **Description**: Running Cost-Efficient Export Workloads at Uber
 - **First seen**: 2026-08-14
+
+## Running a Software Factory Efficiently at Uber Scale
+- **Link**: https://www.uber.com/us/en/blog/efficient-software-factory/
+- **Description**: Running a Software Factory Efficiently at Uber Scale
+- **First seen**: 2026-08-29

@@ -414,3 +414,8 @@
 - **Link**: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/
 - **Description**: How we saved 100 terabytes of memory by optimizing 1.1.1.1âs DNS cache
 - **First seen**: 2026-08-28
+
+## BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents
+- **Link**: https://blog.cloudflare.com/botbase-for-operators/
+- **Description**: BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents
+- **First seen**: 2026-08-29

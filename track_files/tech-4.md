@@ -111,3 +111,13 @@ This post b
 - **Link**: https://devblogs.microsoft.com/engineering-at-microsoft/2021/09/
 - **Description**: September 2021
 - **First seen**: 2026-07-05
+
+## Developing with Accessibility in Mind at Microsoft
+- **Link**: https://devblogs.microsoft.com/engineering-at-microsoft/developing-with-accessibility-in-mind-at-microsoft/
+- **Description**: Celebrate the Global Accessibility Awareness Day GAAD by taking actionable and easy steps to build accessibility into your development life-cycle! Learn how  to
+- **First seen**: 2026-08-29
+
+## Copy-on-Write performance and debugging
+- **Link**: https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/
+- **Description**: This is a follow-up to our previous coverage of Dev Drive and copy-on-write (CoW) linking. See our previous articles from May 24, 2023, October 13, 2023, and No
+- **First seen**: 2026-08-29

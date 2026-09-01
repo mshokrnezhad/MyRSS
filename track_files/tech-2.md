@@ -184,3 +184,8 @@
 - **Link**: https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/
 - **Description**: August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine In
 - **First seen**: 2026-08-28
+
+## August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management · Machine Intelligence · Product
+- **Link**: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
+- **Description**: August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management · Machine Intellige
+- **First seen**: 2026-09-01

@@ -419,3 +419,8 @@
 - **Link**: https://blog.cloudflare.com/botbase-for-operators/
 - **Description**: BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents
 - **First seen**: 2026-08-29
+
+## Introducing Adaptive Intelligence: Undermining the economics of every bot attack
+- **Link**: https://blog.cloudflare.com/introducing-adaptive-intelligence/
+- **Description**: Introducing Adaptive Intelligence: Undermining the economics of every bot attack
+- **First seen**: 2026-09-01

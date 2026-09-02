@@ -208,3 +208,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcementsintroducing-atlas-app-connections-secure-one-click-access-for-ai-tools
 - **Description**: For builders using AI coding tools, speed is everything. Integrations that require generating a credential, filing an access request, or waiting on a custom bui
 - **First seen**: 2026-08-27
+
+## Europe Data Residency for Atlas Embedding and Reranking Today, MongoDB is announcing the public preview of data residency in Europe and the US for the Embedding and Reranking API Service, also known as ERAS, on MongoDB Atlas. It’s a critical priority to make industry-leading Voyage AI models available wherever our customers operate, while meeting their strictest regulatory requirements. The introduction of geography-specific data residency builds on the strong foundation of MongoDB Atlas’s enterprise-grade data privacy, security, and compliance features, and will help organizations operating in Europe meet local data sovereignty requirements when building AI-powered search into their applications. September 1, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/europe-data-residency-for-atlas-embedding-reranking
+- **Description**: Today, MongoDB is announcing the public preview of data residency in Europe and the US for the Embedding and Reranking API Service, also known as ERAS, on Mongo
+- **First seen**: 2026-09-02

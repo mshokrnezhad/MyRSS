@@ -189,3 +189,8 @@
 - **Link**: https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/
 - **Description**: August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management · Machine Intellige
 - **First seen**: 2026-09-01
+
+## September 1, 2026 Mapping global methane emissions from space with deep learning Climate & Sustainability · Earth AI · Machine Intelligence
+- **Link**: https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/
+- **Description**: September 1, 2026 Mapping global methane emissions from space with deep learning Climate & Sustainability · Earth AI · M
+- **First seen**: 2026-09-02

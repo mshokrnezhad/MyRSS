@@ -374,3 +374,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/
 - **Description**: GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026
 - **First seen**: 2026-08-28
+
+## NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier
+- **Link**: https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/
+- **Description**: NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier
+- **First seen**: 2026-09-02

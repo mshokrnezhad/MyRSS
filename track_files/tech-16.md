@@ -424,3 +424,8 @@
 - **Link**: https://blog.cloudflare.com/introducing-adaptive-intelligence/
 - **Description**: Introducing Adaptive Intelligence: Undermining the economics of every bot attack
 - **First seen**: 2026-09-01
+
+## How we could save petabytes of cache storage with Zstandard and Pingora
+- **Link**: https://blog.cloudflare.com/cache-transcoding/
+- **Description**: How we could save petabytes of cache storage with Zstandard and Pingora
+- **First seen**: 2026-09-02

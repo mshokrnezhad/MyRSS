@@ -149,3 +149,8 @@
 - **Link**: https://www.uber.com/us/en/blog/efficient-software-factory/
 - **Description**: Running a Software Factory Efficiently at Uber Scale
 - **First seen**: 2026-08-29
+
+## From Chaos to Control: Addressing Shard Distribution Challenges in M3DB with Subclusters
+- **Link**: https://www.uber.com/us/en/blog/from-chaos-to-control/
+- **Description**: From Chaos to Control: Addressing Shard Distribution Challenges in M3DB with Subclusters
+- **First seen**: 2026-09-03

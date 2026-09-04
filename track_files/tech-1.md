@@ -379,3 +379,18 @@
 - **Link**: https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/
 - **Description**: NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier
 - **First seen**: 2026-09-02
+
+## NVIDIA to Acquire Hugging Face
+- **Link**: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/
+- **Description**: NVIDIA to Acquire Hugging Face
+- **First seen**: 2026-09-04
+
+## Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026
+- **Link**: https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/
+- **Description**: Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026
+- **First seen**: 2026-09-04
+
+## ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/
+- **Description**: ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW
+- **First seen**: 2026-09-04

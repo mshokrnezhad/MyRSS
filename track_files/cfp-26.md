@@ -244,3 +244,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/orchestrating-computing-communication-and-agentic-ai-human-centric-wireless-systems
 - **Description**: IEEE CFP — Orchestrating Computing, Communication, and Agentic AI for Human-Centric Wireles
 - **First seen**: 2026-08-25
+
+## Delay-Tolerant Networking for 6G: Architectures, Protocols, and Sustainable Connectivity
+- **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/delay-tolerant-networking-6g-architectures-protocols-and-sustainable-connectivity
+- **Description**: IEEE CFP — Delay-Tolerant Networking for 6G: Architectures, Protocols, and Sustainable Conn
+- **First seen**: 2026-09-04

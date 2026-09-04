@@ -79,3 +79,8 @@
 - **Link**: https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests
 - **Description**: When Can LLMs Replace Humans in A/B Tests?
 - **First seen**: 2026-08-14
+
+## Portal by Spotify cut my Claude Code token usage by 90%
+- **Link**: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
+- **Description**: Portal by Spotify cut my Claude Code token usage by 90%
+- **First seen**: 2026-09-04

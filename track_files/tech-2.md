@@ -194,3 +194,8 @@
 - **Link**: https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/
 - **Description**: September 1, 2026 Mapping global methane emissions from space with deep learning Climate & Sustainability · Earth AI · M
 - **First seen**: 2026-09-02
+
+## September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science · Machine Intelligence
+- **Link**: https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/
+- **Description**: September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science · Machine Int
+- **First seen**: 2026-09-04

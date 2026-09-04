@@ -429,3 +429,8 @@
 - **Link**: https://blog.cloudflare.com/cache-transcoding/
 - **Description**: How we could save petabytes of cache storage with Zstandard and Pingora
 - **First seen**: 2026-09-02
+
+## Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models
+- **Link**: https://blog.cloudflare.com/vulnerability-discovery-remediation/
+- **Description**: Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak mo
+- **First seen**: 2026-09-04

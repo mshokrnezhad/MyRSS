@@ -84,3 +84,8 @@
 - **Link**: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90
 - **Description**: Portal by Spotify cut my Claude Code token usage by 90%
 - **First seen**: 2026-09-04
+
+## Why Spotify Is Not Using Bayesian A/B Testing
+- **Link**: https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing
+- **Description**: Why Spotify Is Not Using Bayesian A/B Testing
+- **First seen**: 2026-09-09

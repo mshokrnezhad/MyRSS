@@ -394,3 +394,33 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/agentic-ai-enabled-networking-heterogeneous-unmanned-systems-low-altitude-environments
 - **Description**: IEEE CFP — Agentic AI-Enabled Networking for Heterogeneous Unmanned Systems in Low-Altitude
 - **First seen**: 2026-08-25
+
+## Atomic-to-Network: Quantum Radio Front-Ends for 6G Wireless Communications and Sensing
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/atomic-network-quantum-radio-front-ends-6g-wireless-communications-and-sensing
+- **Description**: IEEE CFP — Atomic-to-Network: Quantum Radio Front-Ends for 6G Wireless Communications and S
+- **First seen**: 2026-09-10
+
+## 3D Metasurface-Assisted Wireless Communications: From Model-Based Designs to AI-Driven Approaches
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/3d-metasurface-assisted-wireless-communications-model-based-designs-ai-driven-approaches
+- **Description**: IEEE CFP — 3D Metasurface-Assisted Wireless Communications: From Model-Based Designs to AI-
+- **First seen**: 2026-09-10
+
+## AI-Empowered Underwater Wireless Optical Communications for Science Exploration and Defense Applications
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/ai-empowered-underwater-wireless-optical-communications-science-exploration-and-defense-applications
+- **Description**: IEEE CFP — AI-Empowered Underwater Wireless Optical Communications for Science Exploration 
+- **First seen**: 2026-09-10
+
+## In-Orbit Computing: Striding into the Era of Space-Centric Intelligence
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/orbit-computing-striding-era-space-centric-intelligence
+- **Description**: IEEE CFP — In-Orbit Computing: Striding into the Era of Space-Centric Intelligence
+- **First seen**: 2026-09-10
+
+## Intelligent Integrated Sensing and Covert Transmission
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/intelligent-integrated-sensing-and-covert-transmission
+- **Description**: IEEE CFP — Intelligent Integrated Sensing and Covert Transmission
+- **First seen**: 2026-09-10
+
+## From Large AI Models to Agentic AI: Toward Intelligent 6G Networks
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/large-ai-models-agentic-ai-toward-intelligent-6g-networks
+- **Description**: IEEE CFP — From Large AI Models to Agentic AI: Toward Intelligent 6G Networks
+- **First seen**: 2026-09-10

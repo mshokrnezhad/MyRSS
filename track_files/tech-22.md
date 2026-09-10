@@ -218,3 +218,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-atlas-app-connections-secure-one-click-access-for-ai-tools
 - **Description**: For builders using AI coding tools, speed is everything. Integrations that require generating a credential, filing an access request, or waiting on a custom bui
 - **First seen**: 2026-09-04
+
+## Benchmark Shows MongoDB Atlas Manages Thousands of Payments Per Second with Zero Data Loss As instant payment rails replace legacy batch systems worldwide, banks need public proof that modern data architectures can scale without compromising resilience. We recently put the Icon Payments Framework (IPF), trusted by Tier 1 banks including Citi, NatWest, and BNP Paribas, through a series of extreme load and failure tests on MongoDB Atlas. September 9, 2026
+- **Link**: https://www.mongodb.com/company/blog/news/benchmark-shows-atlas-manages-thousands-of-payments-per-second-zero-data-loss
+- **Description**: As instant payment rails replace legacy batch systems worldwide, banks need public proof that modern data architectures can scale without compromising resilienc
+- **First seen**: 2026-09-10

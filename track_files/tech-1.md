@@ -394,3 +394,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/
 - **Description**: ‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW
 - **First seen**: 2026-09-04
+
+## NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC
+- **Link**: https://blogs.nvidia.com/blog/ibc-news-2026/
+- **Description**: NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC
+- **First seen**: 2026-09-10

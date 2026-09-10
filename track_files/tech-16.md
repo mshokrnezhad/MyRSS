@@ -439,3 +439,8 @@
 - **Link**: https://blog.cloudflare.com/automatic-key-exchange-for-origins/
 - **Description**: Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)
 - **First seen**: 2026-09-09
+
+## How we rebuilt Cloudflare Workersâ module registry for Node.js compatibility
+- **Link**: https://blog.cloudflare.com/workers-module-registry-nodejs/
+- **Description**: How we rebuilt Cloudflare Workersâ module registry for Node.js compatibility
+- **First seen**: 2026-09-10

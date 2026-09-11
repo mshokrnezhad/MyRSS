@@ -223,3 +223,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/news/benchmark-shows-atlas-manages-thousands-of-payments-per-second-zero-data-loss
 - **Description**: As instant payment rails replace legacy batch systems worldwide, banks need public proof that modern data architectures can scale without compromising resilienc
 - **First seen**: 2026-09-10
+
+## Analyze MongoDB Atlas Data in OpenAI ChatGPT Work MongoDB Atlas is now a connected data source in OpenAI's Data Plugin, powered by the MongoDB Atlas Managed MCP Server. Analysts and business teams can point the Data agent in ChatGPT Work at the data in their Atlas clusters and ask what changed in the moment, why it changed, and what to look at next, then turn the answer into a report or real-time dashboard without leaving the conversation. September 10, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/analyze-atlas-data-openai-chatgpt-work
+- **Description**: MongoDB Atlas is now a connected data source in OpenAI's Data Plugin, powered by the MongoDB Atlas Managed MCP Server. Analysts and business teams can point the
+- **First seen**: 2026-09-11

@@ -199,3 +199,8 @@
 - **Link**: https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/
 - **Description**: September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science · Machine Int
 - **First seen**: 2026-09-04
+
+## September 10, 2026 ToolGrad: Efficient tool-use dataset generation with textual "gradients" Machine Intelligence · Natural Language Processing
+- **Link**: https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/
+- **Description**: September 10, 2026 ToolGrad: Efficient tool-use dataset generation with textual "gradients" Machine Intelligence · Natur
+- **First seen**: 2026-09-11

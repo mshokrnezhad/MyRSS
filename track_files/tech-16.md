@@ -444,3 +444,8 @@
 - **Link**: https://blog.cloudflare.com/workers-module-registry-nodejs/
 - **Description**: How we rebuilt Cloudflare Workersâ module registry for Node.js compatibility
 - **First seen**: 2026-09-10
+
+## 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it
+- **Link**: https://blog.cloudflare.com/post-quantum-dnssec-1111/
+- **Description**: 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it
+- **First seen**: 2026-09-11

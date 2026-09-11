@@ -399,3 +399,23 @@
 - **Link**: https://blogs.nvidia.com/blog/ibc-news-2026/
 - **Description**: NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC
 - **First seen**: 2026-09-10
+
+## Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video
+- **Link**: https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/
+- **Description**: Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video
+- **First seen**: 2026-09-11
+
+## Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies
+- **Link**: https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/
+- **Description**: Physical AI Takes the Wheel: How the World’s Robotaxi Leaders Are Building With NVIDIA Technologies
+- **First seen**: 2026-09-11
+
+## d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment
+- **Link**: https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/
+- **Description**: d-Matrix Adopts NVIDIA NVLink Fusion for Rack-Scale XPU Deployment
+- **First seen**: 2026-09-11
+
+## Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/
+- **Description**: Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch
+- **First seen**: 2026-09-11

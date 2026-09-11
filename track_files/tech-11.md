@@ -154,3 +154,8 @@
 - **Link**: https://www.uber.com/us/en/blog/from-chaos-to-control/
 - **Description**: From Chaos to Control: Addressing Shard Distribution Challenges in M3DB with Subclusters
 - **First seen**: 2026-09-03
+
+## From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform
+- **Link**: https://www.uber.com/us/en/blog/evolving-ubers-compute-platform/
+- **Description**: From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform
+- **First seen**: 2026-09-11

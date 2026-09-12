@@ -159,3 +159,8 @@
 - **Link**: https://www.uber.com/us/en/blog/evolving-ubers-compute-platform/
 - **Description**: From One Horizontal Scaling Controller to Many: Evolving Uber's Compute Platform
 - **First seen**: 2026-09-11
+
+## Halving the Time: How Uber Eats Rebuilt Its Search Pipeline
+- **Link**: https://www.uber.com/us/en/blog/uber-eats-search-pipeline/
+- **Description**: Halving the Time: How Uber Eats Rebuilt Its Search Pipeline
+- **First seen**: 2026-09-12

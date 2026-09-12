@@ -449,3 +449,8 @@
 - **Link**: https://blog.cloudflare.com/post-quantum-dnssec-1111/
 - **Description**: 1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it
 - **First seen**: 2026-09-11
+
+## Introducing automatic remediation policies with Cloudflare CASB
+- **Link**: https://blog.cloudflare.com/casb-policies/
+- **Description**: Introducing automatic remediation policies with Cloudflare CASB
+- **First seen**: 2026-09-12

@@ -164,3 +164,8 @@
 - **Link**: https://www.uber.com/us/en/blog/uber-eats-search-pipeline/
 - **Description**: Halving the Time: How Uber Eats Rebuilt Its Search Pipeline
 - **First seen**: 2026-09-12
+
+## From Signals to Context: Lessons from Lavaredo Ultra Trail
+- **Link**: https://www.uber.com/us/en/blog/signals-to-context/
+- **Description**: From Signals to Context: Lessons from Lavaredo Ultra Trail
+- **First seen**: 2026-09-13

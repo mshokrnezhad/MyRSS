@@ -199,3 +199,8 @@
 - **Link**: https://stripe.com/blog/building-a-data-plane-from-scratch-stripes-own-high-performance-distributed-proxy
 - **Description**: 2026.8.26 Building a data plane from scratch: Stripe’s own high-performance distributed proxy
 - **First seen**: 2026-08-27
+
+## 2026.9.14 Harbor: Stripe’s AI-assisted prototyping tool
+- **Link**: https://stripe.com/blog/harbor-stripes-ai-assisted-prototyping-tool
+- **Description**: 2026.9.14 Harbor: Stripe’s AI-assisted prototyping tool
+- **First seen**: 2026-09-15

@@ -419,3 +419,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/
 - **Description**: Boots on the Ground: ‘WARDOGS’ Goes All Out on GeForce NOW at Early-Access Launch
 - **First seen**: 2026-09-11
+
+## Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX
+- **Link**: https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/
+- **Description**: Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX
+- **First seen**: 2026-09-15

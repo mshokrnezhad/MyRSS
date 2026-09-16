@@ -424,3 +424,23 @@
 - **Link**: https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/
 - **Description**: Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX
 - **First seen**: 2026-09-15
+
+## ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce
+- **Link**: https://blogs.nvidia.com/blog/jensen-huang-dreamforce/
+- **Description**: ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce
+- **First seen**: 2026-09-16
+
+## AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories
+- **Link**: https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/
+- **Description**: AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per W
+- **First seen**: 2026-09-16
+
+## Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care
+- **Link**: https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/
+- **Description**: Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care
+- **First seen**: 2026-09-16
+
+## From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production
+- **Link**: https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/
+- **Description**: From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production
+- **First seen**: 2026-09-16

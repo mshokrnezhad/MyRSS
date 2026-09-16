@@ -454,3 +454,13 @@
 - **Link**: https://blog.cloudflare.com/casb-policies/
 - **Description**: Introducing automatic remediation policies with Cloudflare CASB
 - **First seen**: 2026-09-12
+
+## Have it both ways: stay discoverable in search while disallowing AI training
+- **Link**: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/
+- **Description**: Have it both ways: stay discoverable in search while disallowing AI training
+- **First seen**: 2026-09-16
+
+## Give every teammate and agent the right level of access to your Workers
+- **Link**: https://blog.cloudflare.com/workers-granular-authorization/
+- **Description**: Give every teammate and agent the right level of access to your Workers
+- **First seen**: 2026-09-16

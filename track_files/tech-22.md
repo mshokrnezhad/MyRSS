@@ -228,3 +228,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/analyze-atlas-data-openai-chatgpt-work
 - **Description**: MongoDB Atlas is now a connected data source in OpenAI's Data Plugin, powered by the MongoDB Atlas Managed MCP Server. Analysts and business teams can point the
 - **First seen**: 2026-09-11
+
+## From Curiosity to Impact: Inside the MongoDB Intern Experience What does it look like to intern at MongoDB? The answer depends on the team, the project, and the people you meet along the way. September 15, 2026
+- **Link**: https://www.mongodb.com/company/blog/culture/from-curiosity-impact-inside-intern-experience
+- **Description**: What does it look like to intern at MongoDB? The answer depends on the team, the project, and the people you meet along the way.
+- **First seen**: 2026-09-16

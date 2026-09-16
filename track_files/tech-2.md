@@ -204,3 +204,8 @@
 - **Link**: https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/
 - **Description**: September 10, 2026 ToolGrad: Efficient tool-use dataset generation with textual "gradients" Machine Intelligence · Natur
 - **First seen**: 2026-09-11
+
+## September 15, 2026 Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory · Data Mining & Modeling · Generative AI
+- **Link**: https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/
+- **Description**: September 15, 2026 Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & 
+- **First seen**: 2026-09-16

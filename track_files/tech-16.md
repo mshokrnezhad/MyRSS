@@ -464,3 +464,8 @@
 - **Link**: https://blog.cloudflare.com/workers-granular-authorization/
 - **Description**: Give every teammate and agent the right level of access to your Workers
 - **First seen**: 2026-09-16
+
+## When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts
+- **Link**: https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/
+- **Description**: When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts
+- **First seen**: 2026-09-17

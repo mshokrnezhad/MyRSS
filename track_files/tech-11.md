@@ -169,3 +169,8 @@
 - **Link**: https://www.uber.com/us/en/blog/signals-to-context/
 - **Description**: From Signals to Context: Lessons from Lavaredo Ultra Trail
 - **First seen**: 2026-09-13
+
+## Large-Scale Automated Dependency Analysis Across Uber's Service Mesh
+- **Link**: https://www.uber.com/us/en/blog/automated-dependency-analysis/
+- **Description**: Large-Scale Automated Dependency Analysis Across Uber's Service Mesh
+- **First seen**: 2026-09-17

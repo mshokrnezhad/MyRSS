@@ -444,3 +444,18 @@
 - **Link**: https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/
 - **Description**: From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production
 - **First seen**: 2026-09-16
+
+## NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut
+- **Link**: https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/
+- **Description**: NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut
+- **First seen**: 2026-09-17
+
+## Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers
+- **Link**: https://blogs.nvidia.com/blog/ai-energy-management-alliance/
+- **Description**: Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers
+- **First seen**: 2026-09-17
+
+## University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK
+- **Link**: https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/
+- **Description**: University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK
+- **First seen**: 2026-09-17

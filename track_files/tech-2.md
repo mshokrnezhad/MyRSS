@@ -209,3 +209,8 @@
 - **Link**: https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/
 - **Description**: September 15, 2026 Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & 
 - **First seen**: 2026-09-16
+
+## September 17, 2026 The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation · Generative AI · Machine Intelligence
+- **Link**: https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/
+- **Description**: September 17, 2026 The future of practice: Enabling teachers to create learning interactives with generative UI Educatio
+- **First seen**: 2026-09-18

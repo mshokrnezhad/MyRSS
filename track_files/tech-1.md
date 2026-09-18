@@ -459,3 +459,8 @@
 - **Link**: https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/
 - **Description**: University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK
 - **First seen**: 2026-09-17
+
+## Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/
+- **Description**: Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW
+- **First seen**: 2026-09-18

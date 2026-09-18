@@ -89,3 +89,8 @@
 - **Link**: https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing
 - **Description**: Why Spotify Is Not Using Bayesian A/B Testing
 - **First seen**: 2026-09-09
+
+## AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity
+- **Link**: https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity
+- **Description**: AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity
+- **First seen**: 2026-09-18

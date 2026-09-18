@@ -174,3 +174,8 @@
 - **Link**: https://www.uber.com/us/en/blog/automated-dependency-analysis/
 - **Description**: Large-Scale Automated Dependency Analysis Across Uber's Service Mesh
 - **First seen**: 2026-09-17
+
+## How Uber Protects Against Retry Storms
+- **Link**: https://www.uber.com/us/en/blog/protecting-against-retry-storms/
+- **Description**: How Uber Protects Against Retry Storms
+- **First seen**: 2026-09-18

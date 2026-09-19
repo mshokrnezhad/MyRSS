@@ -469,3 +469,8 @@
 - **Link**: https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/
 - **Description**: When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts
 - **First seen**: 2026-09-17
+
+## Saving another 100TB of RAM with math (and Rust)
+- **Link**: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
+- **Description**: Saving another 100TB of RAM with math (and Rust)
+- **First seen**: 2026-09-19

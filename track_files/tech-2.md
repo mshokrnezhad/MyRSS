@@ -214,3 +214,8 @@
 - **Link**: https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/
 - **Description**: September 17, 2026 The future of practice: Enabling teachers to create learning interactives with generative UI Educatio
 - **First seen**: 2026-09-18
+
+## September 18, 2026 MilleMiglia: A realistic instance generator for middle-mile logistics Algorithms & Theory
+- **Link**: https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/
+- **Description**: September 18, 2026 MilleMiglia: A realistic instance generator for middle-mile logistics Algorithms & Theory
+- **First seen**: 2026-09-19

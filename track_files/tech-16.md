@@ -474,3 +474,8 @@
 - **Link**: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/
 - **Description**: Saving another 100TB of RAM with math (and Rust)
 - **First seen**: 2026-09-19
+
+## Python Workers are now generally available
+- **Link**: https://blog.cloudflare.com/python-workers-ga/
+- **Description**: Python Workers are now generally available
+- **First seen**: 2026-09-22

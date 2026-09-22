@@ -464,3 +464,28 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/
 - **Description**: Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW
 - **First seen**: 2026-09-18
+
+## AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack
+- **Link**: https://blogs.nvidia.com/blog/ai-security-agent-stack/
+- **Description**: AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack
+- **First seen**: 2026-09-22
+
+## NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories
+- **Link**: https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/
+- **Description**: NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories
+- **First seen**: 2026-09-22
+
+## Why Deploying Physical AI at Scale Demands Safety at Every Layer
+- **Link**: https://blogs.nvidia.com/blog/physical-ai-halos-safety/
+- **Description**: Why Deploying Physical AI at Scale Demands Safety at Every Layer
+- **First seen**: 2026-09-22
+
+## 5 Companies Using NVIDIA AI for Clean Energy
+- **Link**: https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/
+- **Description**: 5 Companies Using NVIDIA AI for Clean Energy
+- **First seen**: 2026-09-22
+
+## From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale
+- **Link**: https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/
+- **Description**: From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale
+- **First seen**: 2026-09-22

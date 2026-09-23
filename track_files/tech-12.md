@@ -204,3 +204,8 @@
 - **Link**: https://stripe.com/blog/harbor-stripes-ai-assisted-prototyping-tool
 - **Description**: 2026.9.14 Harbor: Stripe’s AI-assisted prototyping tool
 - **First seen**: 2026-09-15
+
+## 2026.9.22 How Stripe is designing Checkout for AI agents
+- **Link**: https://stripe.com/blog/how-stripe-is-designing-checkout-for-ai-agents
+- **Description**: 2026.9.22 How Stripe is designing Checkout for AI agents
+- **First seen**: 2026-09-23

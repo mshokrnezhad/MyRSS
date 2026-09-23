@@ -479,3 +479,13 @@
 - **Link**: https://blog.cloudflare.com/python-workers-ga/
 - **Description**: Python Workers are now generally available
 - **First seen**: 2026-09-22
+
+## We just shipped support for the ugliest part of HTTP: Vary
+- **Link**: https://blog.cloudflare.com/vary-support/
+- **Description**: We just shipped support for the ugliest part of HTTP: Vary
+- **First seen**: 2026-09-23
+
+## Introducing Worker Previews: Isolated preview environments for every change your agent makes
+- **Link**: https://blog.cloudflare.com/worker-previews/
+- **Description**: Introducing Worker Previews: Isolated preview environments for every change your agent makes
+- **First seen**: 2026-09-23

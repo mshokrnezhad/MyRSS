@@ -199,3 +199,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/semantic-communication-near-field-communication-and-integrated-sensing-and-communication-three-musketeers-integrated-terrestrial-and
 - **Description**: IEEE CFP — Semantic Communication, Near Field Communication, and Integrated Sensing and Com
 - **First seen**: 2026-08-25
+
+## Standardizing the AI-Native 6G Air Interface: Protocols, Coordination, and Integration
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/standardizing-ai-native-6g-air-interface-protocols-coordination-and-integration
+- **Description**: IEEE CFP — Standardizing the AI-Native 6G Air Interface: Protocols, Coordination, and Integ
+- **First seen**: 2026-09-23

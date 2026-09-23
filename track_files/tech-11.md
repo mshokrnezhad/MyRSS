@@ -179,3 +179,8 @@
 - **Link**: https://www.uber.com/us/en/blog/protecting-against-retry-storms/
 - **Description**: How Uber Protects Against Retry Storms
 - **First seen**: 2026-09-18
+
+## Taming the ML Firehose: Scaling Feature Consistency
+- **Link**: https://www.uber.com/us/en/blog/taming-ml-firehose/
+- **Description**: Taming the ML Firehose: Scaling Feature Consistency
+- **First seen**: 2026-09-23

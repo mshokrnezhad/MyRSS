@@ -233,3 +233,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/culture/from-curiosity-impact-inside-intern-experience
 - **Description**: What does it look like to intern at MongoDB? The answer depends on the team, the project, and the people you meet along the way.
 - **First seen**: 2026-09-16
+
+## } Supporting a DPDPA-Compliant Ecosystem in India with MongoDB Disclaimer: This post is for informational purposes only and does not constitute legal advice. Organizations should work with qualified legal counsel to interpret the DPDPA and determine how its requirements apply to their specific circumstances. September 23, 2026
+- **Link**: https://www.mongodb.com/company/blog/innovation/supporting-dpdpa-compliant-ecosystem-in-india
+- **Description**: Disclaimer: This post is for informational purposes only and does not constitute legal advice. Organizations should work with qualified legal counsel to interpr
+- **First seen**: 2026-09-23

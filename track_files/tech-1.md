@@ -489,3 +489,8 @@
 - **Link**: https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/
 - **Description**: From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale
 - **First seen**: 2026-09-22
+
+## NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development
+- **Link**: https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/
+- **Description**: NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development
+- **First seen**: 2026-09-23

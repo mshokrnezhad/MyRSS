@@ -424,3 +424,8 @@
 - **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/large-ai-models-agentic-ai-toward-intelligent-6g-networks
 - **Description**: IEEE CFP — From Large AI Models to Agentic AI: Toward Intelligent 6G Networks
 - **First seen**: 2026-09-10
+
+## Radio Environment Intelligence for Autonomous Spectrum Operations in 6G: From Perception to Closed-Loop Adaptation
+- **Link**: https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/radio-environment-intelligence-autonomous-spectrum-operations-6g-perception-closed-loop-adaptation
+- **Description**: IEEE CFP — Radio Environment Intelligence for Autonomous Spectrum Operations in 6G: From Pe
+- **First seen**: 2026-09-23

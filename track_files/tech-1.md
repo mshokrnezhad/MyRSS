@@ -494,3 +494,8 @@
 - **Link**: https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/
 - **Description**: NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development
 - **First seen**: 2026-09-23
+
+## At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia
+- **Link**: https://blogs.nvidia.com/blog/ai-day-singapore/
+- **Description**: At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia
+- **First seen**: 2026-09-24

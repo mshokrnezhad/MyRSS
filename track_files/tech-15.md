@@ -69,3 +69,8 @@
 - **Link**: https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/
 - **Description**: Your alt text passes automated checks. That doesn’t mean it’s any good.
 - **First seen**: 2026-08-25
+
+## Rendering huge pull requests in the GitHub Copilot app
+- **Link**: https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/
+- **Description**: Rendering huge pull requests in the GitHub Copilot app
+- **First seen**: 2026-09-24

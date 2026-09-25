@@ -249,3 +249,8 @@
 - **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/delay-tolerant-networking-6g-architectures-protocols-and-sustainable-connectivity
 - **Description**: IEEE CFP — Delay-Tolerant Networking for 6G: Architectures, Protocols, and Sustainable Conn
 - **First seen**: 2026-09-04
+
+## Advances in 6G-Enabled Mission-Critical Communication Networks for Public Safety, Emergency Response, and Resilient Operations
+- **Link**: https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/advances-6g-enabled-mission-critical-communication-networks-public-safety-emergency-response-and-resilient-operations
+- **Description**: IEEE CFP — Advances in 6G-Enabled Mission-Critical Communication Networks for Public Safety
+- **First seen**: 2026-09-25

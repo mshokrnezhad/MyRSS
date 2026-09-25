@@ -219,3 +219,8 @@
 - **Link**: https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/
 - **Description**: September 18, 2026 MilleMiglia: A realistic instance generator for middle-mile logistics Algorithms & Theory
 - **First seen**: 2026-09-19
+
+## September 24, 2026 Automating coherent long-form video generation Generative AI · Machine Intelligence
+- **Link**: https://research.google/blog/coherent-long-form-video-generation/
+- **Description**: September 24, 2026 Automating coherent long-form video generation Generative AI · Machine Intelligence
+- **First seen**: 2026-09-25

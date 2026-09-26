@@ -74,3 +74,8 @@
 - **Link**: https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/
 - **Description**: Rendering huge pull requests in the GitHub Copilot app
 - **First seen**: 2026-09-24
+
+## Improving site performance by shipping more CSS
+- **Link**: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
+- **Description**: Improving site performance by shipping more CSS
+- **First seen**: 2026-09-26

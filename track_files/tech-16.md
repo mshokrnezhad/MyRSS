@@ -494,3 +494,8 @@
 - **Link**: https://blog.cloudflare.com/containers-cross-tenant-vulnerability/
 - **Description**: How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers
 - **First seen**: 2026-09-25
+
+## Agents can now set up your websiteâs security with Turnstile Spin
+- **Link**: https://blog.cloudflare.com/turnstile-spin/
+- **Description**: Agents can now set up your websiteâs security with Turnstile Spin
+- **First seen**: 2026-09-26

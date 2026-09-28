@@ -499,3 +499,8 @@
 - **Link**: https://blog.cloudflare.com/turnstile-spin/
 - **Description**: Agents can now set up your websiteâs security with Turnstile Spin
 - **First seen**: 2026-09-26
+
+## Cloudflareâs 2026 Annual Foundersâ Letter
+- **Link**: https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/
+- **Description**: Cloudflareâs 2026 Annual Foundersâ Letter
+- **First seen**: 2026-09-28

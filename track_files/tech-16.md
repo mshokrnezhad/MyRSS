@@ -504,3 +504,48 @@
 - **Link**: https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/
 - **Description**: Cloudflareâs 2026 Annual Foundersâ Letter
 - **First seen**: 2026-09-28
+
+## Introducing cf: the agentic CLI for the entire Cloudflare API
+- **Link**: https://blog.cloudflare.com/cloudflare-cf-cli-launch/
+- **Description**: Introducing cf: the agentic CLI for the entire Cloudflare API
+- **First seen**: 2026-09-29
+
+## Next.js applications, powered by Vite: introducing Vinext 1.0
+- **Link**: https://blog.cloudflare.com/vinext-nextjs-on-vite/
+- **Description**: Next.js applications, powered by Vite: introducing Vinext 1.0
+- **First seen**: 2026-09-29
+
+## How fast is the web? Explore billions of real-user measurements with BEACON
+- **Link**: https://blog.cloudflare.com/how-fast-is-the-web/
+- **Description**: How fast is the web? Explore billions of real-user measurements with BEACON
+- **First seen**: 2026-09-29
+
+## Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents
+- **Link**: https://blog.cloudflare.com/voidzero-update/
+- **Description**: Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents
+- **First seen**: 2026-09-29
+
+## Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more
+- **Link**: https://blog.cloudflare.com/forge-open-source-generation-pipeline/
+- **Description**: Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more
+- **First seen**: 2026-09-29
+
+## The road to the agentic browser: A Kitesurf update
+- **Link**: https://blog.cloudflare.com/kitesurf-update/
+- **Description**: The road to the agentic browser: A Kitesurf update
+- **First seen**: 2026-09-29
+
+## Introducing The Cold Start: pitch your startup live at Cloudflare Connect
+- **Link**: https://blog.cloudflare.com/introducing-the-cold-start/
+- **Description**: Introducing The Cold Start: pitch your startup live at Cloudflare Connect
+- **First seen**: 2026-09-29
+
+## EmDash 1.0: the stable CMS with a secure plugin registry
+- **Link**: https://blog.cloudflare.com/emdash-cms-plugin-registry/
+- **Description**: EmDash 1.0: the stable CMS with a secure plugin registry
+- **First seen**: 2026-09-29
+
+## Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen
+- **Link**: https://blog.cloudflare.com/rust-workers-emscripten-target/
+- **Description**: Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen
+- **First seen**: 2026-09-29

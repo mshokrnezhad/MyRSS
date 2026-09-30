@@ -224,3 +224,8 @@
 - **Link**: https://research.google/blog/coherent-long-form-video-generation/
 - **Description**: September 24, 2026 Automating coherent long-form video generation Generative AI · Machine Intelligence
 - **First seen**: 2026-09-25
+
+## September 29, 2026 How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory · Machine Intelligence
+- **Link**: https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/
+- **Description**: September 29, 2026 How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory · Machine Int
+- **First seen**: 2026-09-30

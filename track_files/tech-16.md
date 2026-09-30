@@ -549,3 +549,48 @@
 - **Link**: https://blog.cloudflare.com/rust-workers-emscripten-target/
 - **Description**: Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen
 - **First seen**: 2026-09-29
+
+## Building a certificate authority for the whole Internet
+- **Link**: https://blog.cloudflare.com/cloudflare-certificate-authority/
+- **Description**: Building a certificate authority for the whole Internet
+- **First seen**: 2026-09-30
+
+## Using AI to chart a course for our post-quantum migration
+- **Link**: https://blog.cloudflare.com/ai-driven-cryptography-discovery/
+- **Description**: Using AI to chart a course for our post-quantum migration
+- **First seen**: 2026-09-30
+
+## Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks
+- **Link**: https://blog.cloudflare.com/ai-era-framework/
+- **Description**: Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks
+- **First seen**: 2026-09-30
+
+## Building a post-quantum certificate authority with Merkle Tree Certificates
+- **Link**: https://blog.cloudflare.com/pq-ca-with-mtcs/
+- **Description**: Building a post-quantum certificate authority with Merkle Tree Certificates
+- **First seen**: 2026-09-30
+
+## We tested our own WAF with frontier AI models. Hereâs what we found
+- **Link**: https://blog.cloudflare.com/adaptive-ai-waf-testing/
+- **Description**: We tested our own WAF with frontier AI models. Hereâs what we found
+- **First seen**: 2026-09-30
+
+## Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account
+- **Link**: https://blog.cloudflare.com/threat-signals/
+- **Description**: Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account
+- **First seen**: 2026-09-30
+
+## Is your domain using post-quantum encryption? Now you can see for yourself
+- **Link**: https://blog.cloudflare.com/post-quantum-visibility/
+- **Description**: Is your domain using post-quantum encryption? Now you can see for yourself
+- **First seen**: 2026-09-30
+
+## Enforce positive security with Cloudflare Application Profiles
+- **Link**: https://blog.cloudflare.com/application-profiles/
+- **Description**: Enforce positive security with Cloudflare Application Profiles
+- **First seen**: 2026-09-30
+
+## Preventing quantum downgrade attacks against IPsec
+- **Link**: https://blog.cloudflare.com/ipsec-downgrade-protection/
+- **Description**: Preventing quantum downgrade attacks against IPsec
+- **First seen**: 2026-09-30

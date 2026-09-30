@@ -238,3 +238,13 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/innovation/supporting-dpdpa-compliant-ecosystem-in-india
 - **Description**: Disclaimer: This post is for informational purposes only and does not constitute legal advice. Organizations should work with qualified legal counsel to interpr
 - **First seen**: 2026-09-23
+
+## The Intelligent Data Platform for the AI Era
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/intelligent-data-platform-for-ai-era
+- **Description**: Artificial Intelligence
+- **First seen**: 2026-09-30
+
+## } Your Database Just Became Your AI Control Point This is a guest blog post, written by Devin Pratt, Research Director at IDC. September 29, 2026
+- **Link**: https://www.mongodb.com/company/blog/news/your-database-just-became-your-ai-control-point
+- **Description**: This is a guest blog post, written by Devin Pratt, Research Director at IDC.
+- **First seen**: 2026-09-30

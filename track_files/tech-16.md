@@ -594,3 +594,48 @@
 - **Link**: https://blog.cloudflare.com/ipsec-downgrade-protection/
 - **Description**: Preventing quantum downgrade attacks against IPsec
 - **First seen**: 2026-09-30
+
+## The Internet has a second audience
+- **Link**: https://blog.cloudflare.com/agentic-web/
+- **Description**: The Internet has a second audience
+- **First seen**: 2026-10-01
+
+## Cloudflare Impact reaches $100 million in donations
+- **Link**: https://blog.cloudflare.com/100-million-donations/
+- **Description**: Cloudflare Impact reaches $100 million in donations
+- **First seen**: 2026-10-01
+
+## Cut your AI spend with AI Gateway's Auto Router
+- **Link**: https://blog.cloudflare.com/auto-router/
+- **Description**: Cut your AI spend with AI Gateway's Auto Router
+- **First seen**: 2026-10-01
+
+## Detect and send production issues straight to your agent
+- **Link**: https://blog.cloudflare.com/real-time-issue-detection/
+- **Description**: Detect and send production issues straight to your agent
+- **First seen**: 2026-10-01
+
+## Simplifying domains for people and agents
+- **Link**: https://blog.cloudflare.com/simplifying-domains/
+- **Description**: Simplifying domains for people and agents
+- **First seen**: 2026-10-01
+
+## Monetization Gateway beta: charge AI agents for consumption with HTTP 402
+- **Link**: https://blog.cloudflare.com/monetization-gateway-beta/
+- **Description**: Monetization Gateway beta: charge AI agents for consumption with HTTP 402
+- **First seen**: 2026-10-01
+
+## Pay Per Use: when AI uses your work, you should get paid
+- **Link**: https://blog.cloudflare.com/pay-per-use/
+- **Description**: Pay Per Use: when AI uses your work, you should get paid
+- **First seen**: 2026-10-01
+
+## Identify AI model overuse with User Insights
+- **Link**: https://blog.cloudflare.com/ai-model-overuse-user-insights/
+- **Description**: Identify AI model overuse with User Insights
+- **First seen**: 2026-10-01
+
+## Cloudflare Containers, rebuilt to scale agent sandboxes
+- **Link**: https://blog.cloudflare.com/faster-agent-sandboxes/
+- **Description**: Cloudflare Containers, rebuilt to scale agent sandboxes
+- **First seen**: 2026-10-01

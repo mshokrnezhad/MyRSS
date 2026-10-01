@@ -248,3 +248,28 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/news/your-database-just-became-your-ai-control-point
 - **Description**: This is a guest blog post, written by Devin Pratt, Research Director at IDC.
 - **First seen**: 2026-09-30
+
+## } Context Engineering Has a Retrieval Issue: Introducing rerank-3 and Native Reranking Every team building AI agents discovers one fundamental truth: without the right information, an agent cannot reliably answer a question or take the correct action. September 30, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-rerank-3-and-native-rerank
+- **Description**: Every team building AI agents discovers one fundamental truth: without the right information, an agent cannot reliably answer a question or take the correct act
+- **First seen**: 2026-10-01
+
+## } Everything Announced at MongoDB.local NYC 2026 MongoDB.local NYC 2026 is officially a wrap, and what an event it was! September 30, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/everything-announced-mongodb-local-nyc-2026
+- **Description**: MongoDB.local NYC 2026 is officially a wrap, and what an event it was!
+- **First seen**: 2026-10-01
+
+## } Building the Agentic Ecosystem: Partner Updates from MongoDB.local NYC Building AI applications has never been easier. Making them reliable in production remains the real challenge. September 30, 2026
+- **Link**: https://www.mongodb.com/company/blog/events/building-agentic-ecosystem-partner-updates-from-mongodb-local-nyc
+- **Description**: Building AI applications has never been easier. Making them reliable in production remains the real challenge.
+- **First seen**: 2026-10-01
+
+## } AI Demand is Constant, Unpredictable, and Extreme. MongoDB is Built for It. When a huge surge in demand meets limited resources, an awful experience usually isn’t far behind. Fans feel it when trying to compete for concert tickets with bots and scalpers. Diners feel it when they try to get a reservation at a trendy restaurant that’s fully booked for months. Websites and applications feel it when they go viral and get an accidental DDoS from a “Reddit Hug of Death.” September 30, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/ai-demand-constant-unpredictable-extreme-mongodb-is-built-for-it
+- **Description**: When a huge surge in demand meets limited resources, an awful experience usually isn’t far behind. Fans feel it when trying to compete for concert tickets with 
+- **First seen**: 2026-10-01
+
+## } How Atlas Agent Engine Powers MongoDB’s Internal AI Strategy I've spent more than 25 years in technology, which means I'm rarely surprised by new tech—I usually see it up close before the public does. As an IT leader, I never evaluate a new capability in isolation; it's always weighed against real enterprise use cases, and against the risks that come with them. These days, I tell people that being a CIO in the age of AI means holding two jobs at once: the engineer reinforcing the dam, and the operator who has to open the floodgates anyway. September 30, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/how-atlas-agent-engine-powers-mongodbs-internal-ai-strategy
+- **Description**: I've spent more than 25 years in technology, which means I'm rarely surprised by new tech—I usually see it up close before the public does. As an IT leader, I n
+- **First seen**: 2026-10-01

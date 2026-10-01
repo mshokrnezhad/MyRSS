@@ -499,3 +499,23 @@
 - **Link**: https://blogs.nvidia.com/blog/ai-day-singapore/
 - **Description**: At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia
 - **First seen**: 2026-09-24
+
+## From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI
+- **Link**: https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/
+- **Description**: From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI
+- **First seen**: 2026-10-01
+
+## How Open Science Can Help Researchers Prepare for the Next Pandemic
+- **Link**: https://blogs.nvidia.com/blog/open-protein-dataset/
+- **Description**: How Open Science Can Help Researchers Prepare for the Next Pandemic
+- **First seen**: 2026-10-01
+
+## NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000
+- **Link**: https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/
+- **Description**: NVIDIA Opens Applications for 2027–2028 Graduate Fellowships With Awards Up to $60,000
+- **First seen**: 2026-10-01
+
+## Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/
+- **Description**: Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW
+- **First seen**: 2026-10-01

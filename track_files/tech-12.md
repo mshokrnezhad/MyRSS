@@ -209,3 +209,8 @@
 - **Link**: https://stripe.com/blog/how-stripe-is-designing-checkout-for-ai-agents
 - **Description**: 2026.9.22 How Stripe is designing Checkout for AI agents
 - **First seen**: 2026-09-23
+
+## 2026.9.30 Stripe’s Payment Method Factory: Orchestrating agents for repeated, custom integrations
+- **Link**: https://stripe.com/blog/stripes-payment-method-factory-orchestrating-agents-for-repeated-custom-integrations
+- **Description**: 2026.9.30 Stripe’s Payment Method Factory: Orchestrating agents for repeated, custom integrations
+- **First seen**: 2026-10-02

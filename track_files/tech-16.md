@@ -639,3 +639,48 @@
 - **Link**: https://blog.cloudflare.com/faster-agent-sandboxes/
 - **Description**: Cloudflare Containers, rebuilt to scale agent sandboxes
 - **First seen**: 2026-10-01
+
+## Introducing Cloudflare Basin: an open, serverless data platform, now generally available
+- **Link**: https://blog.cloudflare.com/cloudflare-basin/
+- **Description**: Introducing Cloudflare Basin: an open, serverless data platform, now generally available
+- **First seen**: 2026-10-02
+
+## Introducing Clef: our open-source decision models, and new RL fine-tuning platform
+- **Link**: https://blog.cloudflare.com/clef-decision-models/
+- **Description**: Introducing Clef: our open-source decision models, and new RL fine-tuning platform
+- **First seen**: 2026-10-02
+
+## One year later: Sovereign AI and the fight for choice
+- **Link**: https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/
+- **Description**: One year later: Sovereign AI and the fight for choice
+- **First seen**: 2026-10-02
+
+## Introducing Workers KV Instant â powered by Quicksilver
+- **Link**: https://blog.cloudflare.com/workers-kv-instant/
+- **Description**: Introducing Workers KV Instant â powered by Quicksilver
+- **First seen**: 2026-10-02
+
+## Cloudflare OS: your companyâs agent workspace, managed for you
+- **Link**: https://blog.cloudflare.com/managed-cloudflare-os/
+- **Description**: Cloudflare OS: your companyâs agent workspace, managed for you
+- **First seen**: 2026-10-02
+
+## Announcing Cloudflare K2: serverless event streams
+- **Link**: https://blog.cloudflare.com/cloudflare-k2-streams/
+- **Description**: Announcing Cloudflare K2: serverless event streams
+- **First seen**: 2026-10-02
+
+## We want you to build the next Git platform on Cloudflare
+- **Link**: https://blog.cloudflare.com/next-git-platform-on-cloudflare/
+- **Description**: We want you to build the next Git platform on Cloudflare
+- **First seen**: 2026-10-02
+
+## AI Search is now generally available
+- **Link**: https://blog.cloudflare.com/ai-search-ga/
+- **Description**: AI Search is now generally available
+- **First seen**: 2026-10-02
+
+## Support for modern cryptographic algorithms in Workers
+- **Link**: https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/
+- **Description**: Support for modern cryptographic algorithms in Workers
+- **First seen**: 2026-10-02

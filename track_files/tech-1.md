@@ -519,3 +519,18 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-control-resonant/
 - **Description**: Contain the Chaos: ‘CONTROL Resonant’ Launches on GeForce NOW
 - **First seen**: 2026-10-01
+
+## How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast
+- **Link**: https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/
+- **Description**: How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast
+- **First seen**: 2026-10-02
+
+## Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment
+- **Link**: https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/
+- **Description**: Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment
+- **First seen**: 2026-10-02
+
+## Fall Into 25 New Games on GeForce NOW This October
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/
+- **Description**: Fall Into 25 New Games on GeForce NOW This October
+- **First seen**: 2026-10-02

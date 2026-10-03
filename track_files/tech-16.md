@@ -684,3 +684,53 @@
 - **Link**: https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/
 - **Description**: Support for modern cryptographic algorithms in Workers
 - **First seen**: 2026-10-02
+
+## 8 major updates to Cloudflare Observability
+- **Link**: https://blog.cloudflare.com/one-observability-platform/
+- **Description**: 8 major updates to Cloudflare Observability
+- **First seen**: 2026-10-03
+
+## Streamline: custom video pipelines with Cloudflare Stream and Workers
+- **Link**: https://blog.cloudflare.com/streamline/
+- **Description**: Streamline: custom video pipelines with Cloudflare Stream and Workers
+- **First seen**: 2026-10-03
+
+## Introducing Web Search API via AI Gateway
+- **Link**: https://blog.cloudflare.com/introducing-web-search-api/
+- **Description**: Introducing Web Search API via AI Gateway
+- **First seen**: 2026-10-03
+
+## Introducing Cloudflare Traces: follow requests through our entire platform
+- **Link**: https://blog.cloudflare.com/cloudflare-tracing/
+- **Description**: Introducing Cloudflare Traces: follow requests through our entire platform
+- **First seen**: 2026-10-03
+
+## Updates on our pledge to make Cloudflare features accessible to everyone
+- **Link**: https://blog.cloudflare.com/enterprise-for-all-update/
+- **Description**: Updates on our pledge to make Cloudflare features accessible to everyone
+- **First seen**: 2026-10-03
+
+## Announcing Cloudflare OHTTP Gateway â expanding access to Cloudflareâs privacy-preserving infrastructure
+- **Link**: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/
+- **Description**: Announcing Cloudflare OHTTP Gateway â expanding access to Cloudflareâs privacy-preserving infrastructure
+- **First seen**: 2026-10-03
+
+## Follow the thread: a new dashboard to investigate account abuse
+- **Link**: https://blog.cloudflare.com/account-abuse-protection-dashboard/
+- **Description**: Follow the thread: a new dashboard to investigate account abuse
+- **First seen**: 2026-10-03
+
+## Protected Quick Tunnels: simple accountless authentication for your next dev project
+- **Link**: https://blog.cloudflare.com/protected-quick-tunnels/
+- **Description**: Protected Quick Tunnels: simple accountless authentication for your next dev project
+- **First seen**: 2026-10-03
+
+## Building for good: How civil society organizations are automating on Cloudflare
+- **Link**: https://blog.cloudflare.com/civil-society-automation/
+- **Description**: Building for good: How civil society organizations are automating on Cloudflare
+- **First seen**: 2026-10-03
+
+## 2026 Birthday week: network performance update
+- **Link**: https://blog.cloudflare.com/network-performance-birthday-week-2026/
+- **Description**: 2026 Birthday week: network performance update
+- **First seen**: 2026-10-03

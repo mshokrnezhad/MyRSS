@@ -184,3 +184,18 @@
 - **Link**: https://www.uber.com/us/en/blog/taming-ml-firehose/
 - **Description**: Taming the ML Firehose: Scaling Feature Consistency
 - **First seen**: 2026-09-23
+
+## Designing MCP Gateway Uber's MCP Management Platform
+- **Link**: https://www.uber.com/us/en/blog/designing-mcp-gateway/
+- **Description**: Designing MCP Gateway Uber's MCP Management Platform
+- **First seen**: 2026-10-03
+
+## English, English
+- **Link**: /us/en/blog/engineering/?countryiso2=us%2Fu0022%3F%3F&id=944%2Cwww.uber.com%2Fin%2Fhi%2Fcareers%2Flocations%2Cuber.com%2C0.7450495
+- **Description**: English, English
+- **First seen**: 2026-10-03
+
+## Spanish, Español (Internacional)
+- **Link**: /us/es/blog/engineering/?countryiso2=us%2Fu0022%3F%3F&id=944%2Cwww.uber.com%2Fin%2Fhi%2Fcareers%2Flocations%2Cuber.com%2C0.7450495
+- **Description**: Spanish, Español (Internacional)
+- **First seen**: 2026-10-03

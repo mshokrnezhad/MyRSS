@@ -229,3 +229,8 @@
 - **Link**: https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/
 - **Description**: September 29, 2026 How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory · Machine Int
 - **First seen**: 2026-09-30
+
+## October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering
+- **Link**: https://research.google/blog/toward-provably-private-learning-from-federated-data/
+- **Description**: October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Preven
+- **First seen**: 2026-10-03

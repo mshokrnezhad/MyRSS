@@ -734,3 +734,13 @@
 - **Link**: https://blog.cloudflare.com/network-performance-birthday-week-2026/
 - **Description**: 2026 Birthday week: network performance update
 - **First seen**: 2026-10-03
+
+## Everything we launched during Birthday Week 2026
+- **Link**: https://blog.cloudflare.com/birthday-week-2026-wrap-up/
+- **Description**: Everything we launched during Birthday Week 2026
+- **First seen**: 2026-10-06
+
+## One year later: the power of 1.1.1.1 interns
+- **Link**: https://blog.cloudflare.com/one-year-later-1111-interns/
+- **Description**: One year later: the power of 1.1.1.1 interns
+- **First seen**: 2026-10-06

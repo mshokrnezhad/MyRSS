@@ -234,3 +234,8 @@
 - **Link**: https://research.google/blog/toward-provably-private-learning-from-federated-data/
 - **Description**: October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Preven
 - **First seen**: 2026-10-03
+
+## October 5, 2026 Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Education Innovation · General Science · Machine Intelligence · Natural Language Processing
+- **Link**: https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/
+- **Description**: October 5, 2026 Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Education Innovation · Ge
+- **First seen**: 2026-10-06

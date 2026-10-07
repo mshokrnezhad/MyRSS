@@ -278,3 +278,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/mongodb-9-0-this-is-what-a-database-should-be
 - **Description**: For years, organizations have been told to accept a series of tradeoffs when it comes to their technology stacks:
 - **First seen**: 2026-10-06
+
+## } MongoDB Queryable Encryption: Prefix, Suffix, and Substring Queries Are Now GA Last week, we announced the general availability of prefix, suffix, and substring query support in MongoDB Queryable Encryption. These capabilities extend Queryable Encryption beyond equality and range queries, and they’re now fully supported for production workloads. October 6, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/queryable-encryption-prefix-suffix-substring-queries-are-now-ga
+- **Description**: Last week, we announced the general availability of prefix, suffix, and substring query support in MongoDB Queryable Encryption. These capabilities extend Query
+- **First seen**: 2026-10-07

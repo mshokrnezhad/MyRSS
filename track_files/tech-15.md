@@ -79,3 +79,8 @@
 - **Link**: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
 - **Description**: Improving site performance by shipping more CSS
 - **First seen**: 2026-09-26
+
+## Building Git infrastructure for agent-scale development
+- **Link**: https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/
+- **Description**: Building Git infrastructure for agent-scale development
+- **First seen**: 2026-10-07

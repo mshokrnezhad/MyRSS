@@ -239,3 +239,8 @@
 - **Link**: https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/
 - **Description**: October 5, 2026 Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Education Innovation · Ge
 - **First seen**: 2026-10-06
+
+## October 6, 2026 Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI · Global · Health & Bioscience
+- **Link**: https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/
+- **Description**: October 6, 2026 Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI · Global ·
+- **First seen**: 2026-10-07

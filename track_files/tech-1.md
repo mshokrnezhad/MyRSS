@@ -534,3 +534,18 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/
 - **Description**: Fall Into 25 New Games on GeForce NOW This October
 - **First seen**: 2026-10-02
+
+## From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps
+- **Link**: https://blogs.nvidia.com/blog/ai-breast-cancer-startups/
+- **Description**: From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps
+- **First seen**: 2026-10-07
+
+## NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI
+- **Link**: https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/
+- **Description**: NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI
+- **First seen**: 2026-10-07
+
+## Why Telecom Operators Are Building Their AI Strategy on Open Models
+- **Link**: https://blogs.nvidia.com/blog/telecom-operators-open-models/
+- **Description**: Why Telecom Operators Are Building Their AI Strategy on Open Models
+- **First seen**: 2026-10-07

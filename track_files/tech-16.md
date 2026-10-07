@@ -744,3 +744,8 @@
 - **Link**: https://blog.cloudflare.com/one-year-later-1111-interns/
 - **Description**: One year later: the power of 1.1.1.1 interns
 - **First seen**: 2026-10-06
+
+## The keys to the Internet changeÂ on October 11. Are you ready?
+- **Link**: https://blog.cloudflare.com/root-ksk-2024-rollover/
+- **Description**: The keys to the Internet changeÂ on October 11. Are you ready?
+- **First seen**: 2026-10-07

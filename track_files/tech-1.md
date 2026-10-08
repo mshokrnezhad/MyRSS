@@ -549,3 +549,8 @@
 - **Link**: https://blogs.nvidia.com/blog/telecom-operators-open-models/
 - **Description**: Why Telecom Operators Are Building Their AI Strategy on Open Models
 - **First seen**: 2026-10-07
+
+## NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents
+- **Link**: https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/
+- **Description**: NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents
+- **First seen**: 2026-10-08

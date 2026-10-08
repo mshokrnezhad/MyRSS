@@ -749,3 +749,8 @@
 - **Link**: https://blog.cloudflare.com/root-ksk-2024-rollover/
 - **Description**: The keys to the Internet changeÂ on October 11. Are you ready?
 - **First seen**: 2026-10-07
+
+## Building an evidence-grounded agentic security operations harness on Cloudflare
+- **Link**: https://blog.cloudflare.com/agentic-security-operations/
+- **Description**: Building an evidence-grounded agentic security operations harness on Cloudflare
+- **First seen**: 2026-10-08

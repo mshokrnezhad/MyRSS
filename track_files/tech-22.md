@@ -283,3 +283,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/queryable-encryption-prefix-suffix-substring-queries-are-now-ga
 - **Description**: Last week, we announced the general availability of prefix, suffix, and substring query support in MongoDB Queryable Encryption. These capabilities extend Query
 - **First seen**: 2026-10-07
+
+## } MongoDB 9.0's Observability Capabilities: Less Hunting, More Resolving Modern applications generate telemetry across every layer of the stack, but understanding what changed and why often remains difficult. Database signals frequently live in separate workflows, forcing teams to switch between dashboards, correlate disconnected data, and piece together performance issues without the full operational context. October 7, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/9-0-observability-capabilities-less-hunting-more-resolving
+- **Description**: Modern applications generate telemetry across every layer of the stack, but understanding what changed and why often remains difficult. Database signals frequen
+- **First seen**: 2026-10-08

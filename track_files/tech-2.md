@@ -244,3 +244,8 @@
 - **Link**: https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/
 - **Description**: October 6, 2026 Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI · Global ·
 - **First seen**: 2026-10-07
+
+## October 7, 2026 Does better work always mean better workers?
+- **Link**: https://research.google/blog/does-better-work-always-mean-better-workers/
+- **Description**: October 7, 2026 Does better work always mean better workers?
+- **First seen**: 2026-10-08

@@ -288,3 +288,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/9-0-observability-capabilities-less-hunting-more-resolving
 - **Description**: Modern applications generate telemetry across every layer of the stack, but understanding what changed and why often remains difficult. Database signals frequen
 - **First seen**: 2026-10-08
+
+## } Intelligent Workload Management: Keeping Your Clusters Available When It Matters Modern applications need to stay available even when traffic spikes suddenly or queries consume disproportionate resources. MongoDB Atlas is designed for high availability, but availability in practice is about more than surviving host failures or a replica set election. It’s also about how a cluster behaves when demand exceeds what it can safely process. October 8, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/intelligent-workload-management-keeping-your-clusters-available-when-it-matters
+- **Description**: Modern applications need to stay available even when traffic spikes suddenly or queries consume disproportionate resources. MongoDB Atlas is designed for high a
+- **First seen**: 2026-10-09

@@ -94,3 +94,8 @@
 - **Link**: https://engineering.atspotify.com/2026/9/ai-changed-how-spotify-builds-what-we-learned-and-fixed-about-quality-at-higher-velocity
 - **Description**: AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity
 - **First seen**: 2026-09-18
+
+## Introducing: Spotify Technology. Proven at Spotify, now yours.
+- **Link**: https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours
+- **Description**: Introducing: Spotify Technology. Proven at Spotify, now yours.
+- **First seen**: 2026-10-09

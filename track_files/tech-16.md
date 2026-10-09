@@ -754,3 +754,8 @@
 - **Link**: https://blog.cloudflare.com/agentic-security-operations/
 - **Description**: Building an evidence-grounded agentic security operations harness on Cloudflare
 - **First seen**: 2026-10-08
+
+## Bridging technical depth and usability: The story behind Radarâs redesign
+- **Link**: https://blog.cloudflare.com/radar-redesign/
+- **Description**: Bridging technical depth and usability: The story behind Radarâs redesign
+- **First seen**: 2026-10-09

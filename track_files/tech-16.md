@@ -759,3 +759,18 @@
 - **Link**: https://blog.cloudflare.com/radar-redesign/
 - **Description**: Bridging technical depth and usability: The story behind Radarâs redesign
 - **First seen**: 2026-10-09
+
+## Deno is joining Cloudflare
+- **Link**: https://blog.cloudflare.com/deno-joins-cloudflare/
+- **Description**: Deno is joining Cloudflare
+- **First seen**: 2026-10-10
+
+## Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash
+- **Link**: https://blog.cloudflare.com/clef-faster-cheaper-multimodal/
+- **Description**: Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash
+- **First seen**: 2026-10-10
+
+## Introducing on-demand CPU and memory profilingÂ with flamegraphs for Workers and Durable Objects
+- **Link**: https://blog.cloudflare.com/workers-on-demand-profiling/
+- **Description**: Introducing on-demand CPU and memory profilingÂ with flamegraphs for Workers and Durable Objects
+- **First seen**: 2026-10-10

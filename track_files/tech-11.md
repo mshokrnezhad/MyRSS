@@ -199,3 +199,8 @@
 - **Link**: /us/es/blog/engineering/?countryiso2=us%2Fu0022%3F%3F&id=944%2Cwww.uber.com%2Fin%2Fhi%2Fcareers%2Flocations%2Cuber.com%2C0.7450495
 - **Description**: Spanish, Español (Internacional)
 - **First seen**: 2026-10-03
+
+## Scaling AI in Legal: Building Uber’s Redlining Agent
+- **Link**: https://www.uber.com/us/en/blog/building-ubers-redlining-agent/
+- **Description**: Scaling AI in Legal: Building Uber’s Redlining Agent
+- **First seen**: 2026-10-10

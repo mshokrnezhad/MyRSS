@@ -293,3 +293,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/intelligent-workload-management-keeping-your-clusters-available-when-it-matters
 - **Description**: Modern applications need to stay available even when traffic spikes suddenly or queries consume disproportionate resources. MongoDB Atlas is designed for high a
 - **First seen**: 2026-10-09
+
+## } MongoDB Extension for Hibernate ORM is Now GA The MongoDB Extension for Hibernate ORM is now generally available, giving Java teams a production-ready way to use familiar Hibernate APIs with MongoDB’s document model. It is a first-party, open-source library that enables Java applications to use MongoDB as the backing database via the Hibernate ORM. The extension allows Java developers to enjoy the same experience with MongoDB, reducing the friction for those who want to switch. October 13, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/extension-for-hibernate-orm-now-ga
+- **Description**: The MongoDB Extension for Hibernate ORM is now generally available, giving Java teams a production-ready way to use familiar Hibernate APIs with MongoDB’s docum
+- **First seen**: 2026-10-14

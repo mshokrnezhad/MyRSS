@@ -554,3 +554,23 @@
 - **Link**: https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/
 - **Description**: NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents
 - **First seen**: 2026-10-08
+
+## All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark
+- **Link**: https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/
+- **Description**: All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark
+- **First seen**: 2026-10-14
+
+## OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide
+- **Link**: https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/
+- **Description**: OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide
+- **First seen**: 2026-10-14
+
+## Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents
+- **Link**: https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/
+- **Description**: Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents
+- **First seen**: 2026-10-14
+
+## Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/
+- **Description**: Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW
+- **First seen**: 2026-10-14

@@ -774,3 +774,18 @@
 - **Link**: https://blog.cloudflare.com/workers-on-demand-profiling/
 - **Description**: Introducing on-demand CPU and memory profilingÂ with flamegraphs for Workers and Durable Objects
 - **First seen**: 2026-10-10
+
+## Under the hood, off the hot path: How D1 scales to millions of databases
+- **Link**: https://blog.cloudflare.com/d1-control-plane/
+- **Description**: Under the hood, off the hot path: How D1 scales to millions of databases
+- **First seen**: 2026-10-14
+
+## Rewinding the exponential: How we keep hardware usage down
+- **Link**: https://blog.cloudflare.com/rewinding-the-exponential/
+- **Description**: Rewinding the exponential: How we keep hardware usage down
+- **First seen**: 2026-10-14
+
+## Filter, reshape, and redact logs before export with Transformers
+- **Link**: https://blog.cloudflare.com/transformers-on-logpush/
+- **Description**: Filter, reshape, and redact logs before export with Transformers
+- **First seen**: 2026-10-14

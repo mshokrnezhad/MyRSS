@@ -204,3 +204,8 @@
 - **Link**: https://www.uber.com/us/en/blog/building-ubers-redlining-agent/
 - **Description**: Scaling AI in Legal: Building Uber’s Redlining Agent
 - **First seen**: 2026-10-10
+
+## Ensuring Similar Computational Resources to Stateful Workloads Running on a Diverse Server Fleet
+- **Link**: https://www.uber.com/us/en/blog/diverse-server-fleet/
+- **Description**: Ensuring Similar Computational Resources to Stateful Workloads Running on a Diverse Server Fleet
+- **First seen**: 2026-10-14

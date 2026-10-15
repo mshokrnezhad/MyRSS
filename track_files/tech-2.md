@@ -249,3 +249,8 @@
 - **Link**: https://research.google/blog/does-better-work-always-mean-better-workers/
 - **Description**: October 7, 2026 Does better work always mean better workers?
 - **First seen**: 2026-10-08
+
+## October 14, 2026 Research@ 2026: 10 ways we're amplifying human ingenuity General Science · Generative AI · Health & Bioscience
+- **Link**: https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/
+- **Description**: October 14, 2026 Research@ 2026: 10 ways we're amplifying human ingenuity General Science · Generative AI · Health & Bio
+- **First seen**: 2026-10-15

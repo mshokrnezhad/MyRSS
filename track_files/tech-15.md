@@ -84,3 +84,8 @@
 - **Link**: https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/
 - **Description**: Building Git infrastructure for agent-scale development
 - **First seen**: 2026-10-07
+
+## From 2,500 requests to 24: Rebuilding star history without the stargazers
+- **Link**: https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/
+- **Description**: From 2,500 requests to 24: Rebuilding star history without the stargazers
+- **First seen**: 2026-10-15

@@ -789,3 +789,13 @@
 - **Link**: https://blog.cloudflare.com/transformers-on-logpush/
 - **Description**: Filter, reshape, and redact logs before export with Transformers
 - **First seen**: 2026-10-14
+
+## Yandex outage: Data shows that instead of going dark, malicious bots went on the move
+- **Link**: https://blog.cloudflare.com/yandex-outage/
+- **Description**: Yandex outage: Data shows that instead of going dark, malicious bots went on the move
+- **First seen**: 2026-10-15
+
+## Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug
+- **Link**: https://blog.cloudflare.com/hyperdrive-mysql/
+- **Description**: Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug
+- **First seen**: 2026-10-15

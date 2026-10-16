@@ -799,3 +799,18 @@
 - **Link**: https://blog.cloudflare.com/hyperdrive-mysql/
 - **Description**: Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug
 - **First seen**: 2026-10-15
+
+## A fully programmable secure web gateway
+- **Link**: https://blog.cloudflare.com/programmable-gateway-dlp/
+- **Description**: A fully programmable secure web gateway
+- **First seen**: 2026-10-16
+
+## Deploy with Void
+- **Link**: https://blog.cloudflare.com/deploy-with-void/
+- **Description**: Deploy with Void
+- **First seen**: 2026-10-16
+
+## Cloudflare and OpenAI: Making AI discovery better for everyone
+- **Link**: https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/
+- **Description**: Cloudflare and OpenAI: Making AI discovery better for everyone
+- **First seen**: 2026-10-16

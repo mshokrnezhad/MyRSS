@@ -89,3 +89,8 @@
 - **Link**: https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/
 - **Description**: From 2,500 requests to 24: Rebuilding star history without the stargazers
 - **First seen**: 2026-10-15
+
+## Staying Evergreen: How we automated secure access and repo hygiene in a shared org
+- **Link**: https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/
+- **Description**: Staying Evergreen: How we automated secure access and repo hygiene in a shared org
+- **First seen**: 2026-10-16

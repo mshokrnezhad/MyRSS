@@ -574,3 +574,13 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/
 - **Description**: Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW
 - **First seen**: 2026-10-14
+
+## Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models
+- **Link**: https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/
+- **Description**: Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models
+- **First seen**: 2026-10-16
+
+## Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/
+- **Description**: Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW
+- **First seen**: 2026-10-16

@@ -99,3 +99,8 @@
 - **Link**: https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours
 - **Description**: Introducing: Spotify Technology. Proven at Spotify, now yours.
 - **First seen**: 2026-10-09
+
+## Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM
+- **Link**: https://engineering.atspotify.com/2026/10/advancing-generative-recommendation-inference-our-collaboration-with-nvidia-on-tensorrt-llm
+- **Description**: Advancing Generative Recommendation Inference: our collaboration with NVIDIA on TensorRT LLM
+- **First seen**: 2026-10-17

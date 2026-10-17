@@ -814,3 +814,8 @@
 - **Link**: https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/
 - **Description**: Cloudflare and OpenAI: Making AI discovery better for everyone
 - **First seen**: 2026-10-16
+
+## Continuous accountability for Verified bots
+- **Link**: https://blog.cloudflare.com/verified-bots-accountability/
+- **Description**: Continuous accountability for Verified bots
+- **First seen**: 2026-10-17

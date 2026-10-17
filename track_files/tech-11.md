@@ -209,3 +209,8 @@
 - **Link**: https://www.uber.com/us/en/blog/diverse-server-fleet/
 - **Description**: Ensuring Similar Computational Resources to Stateful Workloads Running on a Diverse Server Fleet
 - **First seen**: 2026-10-14
+
+## Translations at Scale: Memory Optimization Techniques That Kept Uber's P99 Under 1ms
+- **Link**: https://www.uber.com/us/en/blog/translations-at-scale/
+- **Description**: Translations at Scale: Memory Optimization Techniques That Kept Uber's P99 Under 1ms
+- **First seen**: 2026-10-17

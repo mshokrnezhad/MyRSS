@@ -819,3 +819,18 @@
 - **Link**: https://blog.cloudflare.com/verified-bots-accountability/
 - **Description**: Continuous accountability for Verified bots
 - **First seen**: 2026-10-17
+
+## Cutting our inference bill by 68% by being obsessive about optimization
+- **Link**: https://blog.cloudflare.com/obsessive-inference-optimization/
+- **Description**: Cutting our inference bill by 68% by being obsessive about optimization
+- **First seen**: 2026-10-20
+
+## Introducing Clairic, a new System OneÂ class of extraction models
+- **Link**: https://blog.cloudflare.com/clairic-extraction-model/
+- **Description**: Introducing Clairic, a new System OneÂ class of extraction models
+- **First seen**: 2026-10-20
+
+## Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities
+- **Link**: https://blog.cloudflare.com/protect-your-netscaler-gateway/
+- **Description**: Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities
+- **First seen**: 2026-10-20

@@ -214,3 +214,8 @@
 - **Link**: https://stripe.com/blog/stripes-payment-method-factory-orchestrating-agents-for-repeated-custom-integrations
 - **Description**: 2026.9.30 Stripe’s Payment Method Factory: Orchestrating agents for repeated, custom integrations
 - **First seen**: 2026-10-02
+
+## 2026.10.19 Scaling Radar: Fighting fraud with agent-assisted machine learning
+- **Link**: https://stripe.com/blog/scaling-radar-fighting-fraud-with-agent-assisted-machine-learning
+- **Description**: 2026.10.19 Scaling Radar: Fighting fraud with agent-assisted machine learning
+- **First seen**: 2026-10-20

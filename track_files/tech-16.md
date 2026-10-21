@@ -834,3 +834,13 @@
 - **Link**: https://blog.cloudflare.com/protect-your-netscaler-gateway/
 - **Description**: Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities
 - **First seen**: 2026-10-20
+
+## 8 eMudhra certificates are compromised. Here's what you need to know
+- **Link**: https://blog.cloudflare.com/emudhra-certificate-compromise/
+- **Description**: 8 eMudhra certificates are compromised. Here's what you need to know
+- **First seen**: 2026-10-21
+
+## Introducing tsrs: A port of TypeScript to Rust
+- **Link**: https://blog.cloudflare.com/typescript-rust-port/
+- **Description**: Introducing tsrs: A port of TypeScript to Rust
+- **First seen**: 2026-10-21

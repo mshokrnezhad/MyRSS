@@ -298,3 +298,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/extension-for-hibernate-orm-now-ga
 - **Description**: The MongoDB Extension for Hibernate ORM is now generally available, giving Java teams a production-ready way to use familiar Hibernate APIs with MongoDB’s docum
 - **First seen**: 2026-10-14
+
+## } Introducing MongoDB Agents: Open Source Agent Templates for Atlas Agent Engine Teams increasingly want agents that handle routine database work: checking cluster alerts, reviewing slow queries, and answering questions about a schema. But building agents takes much more than a prompt. It requires credential handling, access scoping, tool orchestration, approval flows, a chat integration, evaluation, observability, and ongoing testing and maintenance. That plumbing is easy to underestimate, and it's where much of the effort goes. October 20, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-agents-open-source-agent-templates-atlas-agent-engine
+- **Description**: Teams increasingly want agents that handle routine database work: checking cluster alerts, reviewing slow queries, and answering questions about a schema. But b
+- **First seen**: 2026-10-21

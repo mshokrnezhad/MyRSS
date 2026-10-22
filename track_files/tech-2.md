@@ -254,3 +254,8 @@
 - **Link**: https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/
 - **Description**: October 14, 2026 Research@ 2026: 10 ways we're amplifying human ingenuity General Science · Generative AI · Health & Bio
 - **First seen**: 2026-10-15
+
+## October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience · Machine Perception
+- **Link**: https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/
+- **Description**: October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience · Machine Perception
+- **First seen**: 2026-10-22

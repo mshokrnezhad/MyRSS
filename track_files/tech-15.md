@@ -94,3 +94,8 @@
 - **Link**: https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/
 - **Description**: Staying Evergreen: How we automated secure access and repo hygiene in a shared org
 - **First seen**: 2026-10-16
+
+## The bridge to agent-scale Git infrastructure
+- **Link**: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/
+- **Description**: The bridge to agent-scale Git infrastructure
+- **First seen**: 2026-10-22

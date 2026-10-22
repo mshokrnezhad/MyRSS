@@ -844,3 +844,18 @@
 - **Link**: https://blog.cloudflare.com/typescript-rust-port/
 - **Description**: Introducing tsrs: A port of TypeScript to Rust
 - **First seen**: 2026-10-21
+
+## Introducing full transaction detection for Cloudflare WAF
+- **Link**: https://blog.cloudflare.com/full-transaction-waf/
+- **Description**: Introducing full transaction detection for Cloudflare WAF
+- **First seen**: 2026-10-22
+
+## Cloudflare deploys protections against php2shell vulnerability
+- **Link**: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/
+- **Description**: Cloudflare deploys protections against php2shell vulnerability
+- **First seen**: 2026-10-22
+
+## How Commerce.com and Cloudflare are getting storefronts ready for AI agents
+- **Link**: https://blog.cloudflare.com/webmcp-commerce/
+- **Description**: How Commerce.com and Cloudflare are getting storefronts ready for AI agents
+- **First seen**: 2026-10-22

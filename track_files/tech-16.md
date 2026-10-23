@@ -859,3 +859,8 @@
 - **Link**: https://blog.cloudflare.com/webmcp-commerce/
 - **Description**: How Commerce.com and Cloudflare are getting storefronts ready for AI agents
 - **First seen**: 2026-10-22
+
+## Localizing compliance at scale: achieving South Koreaâs ISMS certification
+- **Link**: https://blog.cloudflare.com/k-isms/
+- **Description**: Localizing compliance at scale: achieving South Koreaâs ISMS certification
+- **First seen**: 2026-10-23

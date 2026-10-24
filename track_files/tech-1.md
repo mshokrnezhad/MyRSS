@@ -584,3 +584,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/
 - **Description**: Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW
 - **First seen**: 2026-10-16
+
+## Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW
+- **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/
+- **Description**: Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW
+- **First seen**: 2026-10-24

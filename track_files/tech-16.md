@@ -864,3 +864,13 @@
 - **Link**: https://blog.cloudflare.com/k-isms/
 - **Description**: Localizing compliance at scale: achieving South Koreaâs ISMS certification
 - **First seen**: 2026-10-23
+
+## Origin Range Requests: Serving large files without range-request tuning
+- **Link**: https://blog.cloudflare.com/origin-range-requests/
+- **Description**: Origin Range Requests: Serving large files without range-request tuning
+- **First seen**: 2026-10-24
+
+## BringingÂ post-quantum cryptography to geographically fenced key management
+- **Link**: https://blog.cloudflare.com/post-quantum-geo-key-manager/
+- **Description**: BringingÂ post-quantum cryptography to geographically fenced key management
+- **First seen**: 2026-10-24

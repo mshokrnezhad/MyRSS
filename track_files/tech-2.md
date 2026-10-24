@@ -259,3 +259,8 @@
 - **Link**: https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/
 - **Description**: October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience · Machine Perception
 - **First seen**: 2026-10-22
+
+## October 23, 2026 Bringing foundational models to the front lines of TB screening Generative AI · Health & Bioscience
+- **Link**: https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/
+- **Description**: October 23, 2026 Bringing foundational models to the front lines of TB screening Generative AI · Health & Bioscience
+- **First seen**: 2026-10-24

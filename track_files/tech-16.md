@@ -874,3 +874,8 @@
 - **Link**: https://blog.cloudflare.com/post-quantum-geo-key-manager/
 - **Description**: BringingÂ post-quantum cryptography to geographically fenced key management
 - **First seen**: 2026-10-24
+
+## Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang
+- **Link**: https://blog.cloudflare.com/kv-cache-exposure-remediation/
+- **Description**: Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang
+- **First seen**: 2026-10-27

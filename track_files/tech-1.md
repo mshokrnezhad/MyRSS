@@ -589,3 +589,8 @@
 - **Link**: https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/
 - **Description**: Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW
 - **First seen**: 2026-10-24
+
+## How AI Is Changing the Pace of Discovery for Millions Living With Dementia
+- **Link**: https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/
+- **Description**: How AI Is Changing the Pace of Discovery for Millions Living With Dementia
+- **First seen**: 2026-10-28

@@ -214,3 +214,13 @@
 - **Link**: https://www.uber.com/us/en/blog/translations-at-scale/
 - **Description**: Translations at Scale: Memory Optimization Techniques That Kept Uber's P99 Under 1ms
 - **First seen**: 2026-10-17
+
+## Freight Search: Composing a Shared Search Index from Independently Owned Fragments
+- **Link**: https://www.uber.com/us/en/blog/high-performance-search-platform/
+- **Description**: Freight Search: Composing a Shared Search Index from Independently Owned Fragments
+- **First seen**: 2026-10-28
+
+## Uber brings ChatGPT Work to all employees with OpenAI
+- **Link**: https://www.uber.com/us/en/blog/uber-announce-work/
+- **Description**: Uber brings ChatGPT Work to all employees with OpenAI
+- **First seen**: 2026-10-28

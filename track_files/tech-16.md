@@ -879,3 +879,13 @@
 - **Link**: https://blog.cloudflare.com/kv-cache-exposure-remediation/
 - **Description**: Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang
 - **First seen**: 2026-10-27
+
+## Introducing the Cloudflare PHP Capture the Flag challenge
+- **Link**: https://blog.cloudflare.com/php-ctf/
+- **Description**: Introducing the Cloudflare PHP Capture the Flag challenge
+- **First seen**: 2026-10-28
+
+## What took the Internet offline in Q3 2026
+- **Link**: https://blog.cloudflare.com/q3-2026-internet-disruption-summary/
+- **Description**: What took the Internet offline in Q3 2026
+- **First seen**: 2026-10-28

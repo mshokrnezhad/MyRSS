@@ -303,3 +303,8 @@ MongoDB offers one data platform: Every data requirement for production AI is na
 - **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-agents-open-source-agent-templates-atlas-agent-engine
 - **Description**: Teams increasingly want agents that handle routine database work: checking cluster alerts, reviewing slow queries, and answering questions about a schema. But b
 - **First seen**: 2026-10-21
+
+## } Introducing the MongoDB Claude SDK Session Adapter: Durable Session Storage for Agents The Claude Agent SDK is a package that lets you embed Claude Code's own agent loop directly into your application: web search, file search, file editing, MCP server connections, and more, all without having to define those tools or manage the agent loop yourself. The SDK also automatically persists session transcripts to the local file system by default. Claude calls it the Agent SessionStore. October 27, 2026
+- **Link**: https://www.mongodb.com/company/blog/product-release-announcements/introducing-claude-sdk-session-adapter-durable-session-storage-for-agents
+- **Description**: The Claude Agent SDK is a package that lets you embed Claude Code's own agent loop directly into your application: web search, file search, file editing, MCP se
+- **First seen**: 2026-10-28

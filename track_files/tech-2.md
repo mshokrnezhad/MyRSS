@@ -264,3 +264,8 @@
 - **Link**: https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/
 - **Description**: October 23, 2026 Bringing foundational models to the front lines of TB screening Generative AI · Health & Bioscience
 - **First seen**: 2026-10-24
+
+## October 27, 2026 The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation · General Science · Machine Intelligence · Natural Language Processing
+- **Link**: https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/
+- **Description**: October 27, 2026 The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation 
+- **First seen**: 2026-10-28

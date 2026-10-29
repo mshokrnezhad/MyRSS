@@ -594,3 +594,8 @@
 - **Link**: https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/
 - **Description**: How AI Is Changing the Pace of Discovery for Millions Living With Dementia
 - **First seen**: 2026-10-28
+
+## Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games
+- **Link**: https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/
+- **Description**: Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games
+- **First seen**: 2026-10-29
